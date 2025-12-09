@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 1 SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 2 SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 3 SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 4 SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 5 SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 6 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 6 SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 7 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 7 SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 8 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 8 SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 9 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 9 SD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 1 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 2 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 3 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 4 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 5 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 6 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 7 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 8 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 9 HD
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 1 4K
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 2 4K
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 3 4K
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 4 4K
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 5 4K
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 6 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 6 4K
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 7 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 7 4K
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 8 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 8 4K
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 9 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 9 4K
+http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/118.m3u8
+
