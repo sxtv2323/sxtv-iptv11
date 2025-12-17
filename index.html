@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>SXTV Fullscreen HLS</title>
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+<style>
+html, body {
+    margin: 0;
+    padding: 0;
+    background: black;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+#player {
+    width: 100vw;
+    height: 100vh;
+    background: black;
+    object-fit: contain;
+}
+
+/* أزرار التحكم */
+.controls {
+    position: fixed;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 10px;
+    z-index: 10;
+}
+
+button {
+    background: rgba(0,0,0,0.75);
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+/* قائمة القنوات */
+#channels {
+    position: fixed;
+    bottom: 60px;
+    left: 0;
+    right: 0;
+    max-height: 50%;
+    background: rgba(0,0,0,0.9);
+    color: white;
+    overflow-y: auto;
+    display: none;
+    z-index: 9;
+}
+
+.channel {
+    padding: 12px;
+    border-bottom: 1px solid #333;
+    cursor: pointer;
+}
+
+.channel:hover {
+    background: #111;
+}
+</style>
+</head>
+
+<body>
+
+<video id="player" controls autoplay playsinline></video>
+
+<div class="controls">
+    <button id="fullscreenBtn">⛶ ملء الشاشة</button>
+    <button id="channelsBtn">📺 القنوات</button>
+</div>
+
+<div id="channels"></div>
+
+<script>
+const video = document.getElementById('player');
+const channelsDiv = document.getElementById('channels');
+const fullscreenBtn = document.getElementById('fullscreenBtn');
+const channelsBtn = document.getElementById('channelsBtn');
+
+const M3U_URL =
+"https://raw.githubusercontent.com/sxtv2323/sxtv-iptv11/refs/heads/main/websx.m3u?t=" + Date.now();
+
+let hls;
+
+/* تشغيل القناة */
+function playChannel(url) {
+    if (Hls.isSupported()) {
+        if (hls) hls.destroy();
+        hls = new Hls();
+        hls.loadSource(url);
+        hls.attachMedia(video);
+    } else {
+        video.src = url;
+    }
+    video.play();
+}
+
+/* تحميل القنوات */
+fetch(M3U_URL)
+.then(r => r.text())
+.then(data => {
+    const lines = data.split('\n');
+    for (let i = 0; i < lines.length; i++) {
+        if (lines[i].startsWith('#EXTINF')) {
+            const name = lines[i].split(',')[1];
+            const url = lines[i + 1];
+
+            const div = document.createElement('div');
+            div.className = 'channel';
+            div.textContent = name;
+            div.onclick = () => {
+                playChannel(url);
+                channelsDiv.style.display = 'none';
+            };
+            channelsDiv.appendChild(div);
+        }
+    }
+
+    const first = lines.find(l => l.startsWith('http'));
+    if (first) playChannel(first);
+});
+
+/* زر القنوات */
+channelsBtn.onclick = () => {
+    channelsDiv.style.display =
+        channelsDiv.style.display === 'block' ? 'none' : 'block';
+};
+
+/* زر ملء الشاشة */
+fullscreenBtn.onclick = () => {
+    if (!document.fullscreenElement) {
+        document.documentElement.requestFullscreen();
+        if (screen.orientation?.lock) {
+            screen.orientation.lock('landscape').catch(()=>{});
+        }
+    } else {
+        document.exitFullscreen();
+    }
+};
+</script>
+
+</body>
+</html>
