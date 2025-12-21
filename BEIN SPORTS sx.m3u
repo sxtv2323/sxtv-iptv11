@@ -1,56 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 1 SD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/39.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 2 SD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/41.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 3 SD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/43.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 4 SD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/45.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 5 SD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/46.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 6 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 6 SD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/47.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 7 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 7 SD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/48.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 8 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 8 SD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/49.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 9 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 9 SD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/50.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 1 HD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/84.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 2 HD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/85.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 3 HD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/86.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 4 HD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/87.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 5 HD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/88.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 6 HD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/89.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 7 HD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/90.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 8 HD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/91.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 9 HD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/92.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 1 4K
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 2 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 2 4K
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 3 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 3 4K
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 4 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 4 4K
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 5 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 5 4K
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/114.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 6 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 6 4K
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/115.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 7 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 7 4K
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 8 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 8 4K
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 9 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="ðŸ“º BEIN SPORTS",BEIN 9 4K
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/118.m3u8
-
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="Bein Sports SD1 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BeIN Sports SD (H.265)",Bein Sports SD1 (H.265)
+http://splustv.me:80/live/momen3693/3468532356/40837.m3u8
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="Bein Sports SD2 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BeIN Sports SD (H.265)",Bein Sports SD2 (H.265)
+http://splustv.me:80/live/momen3693/3468532356/40838.m3u8
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="Bein Sports SD3(H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BeIN Sports SD (H.265)",Bein Sports SD3(H.265)
+http://splustv.me:80/live/momen3693/3468532356/40839.m3u8
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="Bein Sports SD4 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BeIN Sports SD (H.265)",Bein Sports SD4 (H.265)
+http://splustv.me:80/live/momen3693/3468532356/40830.m3u8
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="Bein Sports SD5 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BeIN Sports SD (H.265)",Bein Sports SD5 (H.265)
+http://splustv.me:80/live/momen3693/3468532356/40831.m3u8
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="Bein Sports SD6 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BeIN Sports SD (H.265)",Bein Sports SD6 (H.265)
+http://splustv.me:80/live/momen3693/3468532356/40832.m3u8
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="Bein Sports SD7 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BeIN Sports SD (H.265)",Bein Sports SD7 (H.265)
+http://splustv.me:80/live/momen3693/3468532356/40833.m3u8
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="Bein Sports SD8 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BeIN Sports SD (H.265)",Bein Sports SD8 (H.265)
+http://splustv.me:80/live/momen3693/3468532356/40834.m3u8
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="Bein Sports SD9 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BeIN Sports SD (H.265)",Bein Sports SD9 (H.265)
+http://splustv.me:80/live/momen3693/3468532356/40835.m3u8
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="Bein Sports HD1 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BeIN Sports HD (H.265)",Bein Sports HD1 (H.265)
+http://splustv.me:80/live/momen3693/3468532356/40125.m3u8
+#EXTINF:-1 tvg-ID="beinseries2.qa" tvg-name="Bein Sports HD2 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BeIN Sports HD (H.265)",Bein Sports HD2 (H.265)
+http://splustv.me:80/live/momen3693/3468532356/40126.m3u8
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="Bein Sports HD3 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BeIN Sports HD (H.265)",Bein Sports HD3 (H.265)
+http://splustv.me:80/live/momen3693/3468532356/40127.m3u8
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="Bein Sports HD4 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BeIN Sports HD (H.265)",Bein Sports HD4 (H.265)
+http://splustv.me:80/live/momen3693/3468532356/40118.m3u8
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="Bein Sports HD5 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BeIN Sports HD (H.265)",Bein Sports HD5 (H.265)
+http://splustv.me:80/live/momen3693/3468532356/40119.m3u8
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="Bein Sports HD6 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BeIN Sports HD (H.265)",Bein Sports HD6 (H.265)
+http://splustv.me:80/live/momen3693/3468532356/40120.m3u8
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="Bein Sports HD7 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BeIN Sports HD (H.265)",Bein Sports HD7 (H.265)
+http://splustv.me:80/live/momen3693/3468532356/40121.m3u8
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="Bein Sports HD8 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BeIN Sports HD (H.265)",Bein Sports HD8 (H.265)
+http://splustv.me:80/live/momen3693/3468532356/40122.m3u8
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="Bein Sports HD9 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BeIN Sports HD (H.265)",Bein Sports HD9 (H.265)
+http://splustv.me:80/live/momen3693/3468532356/40123.m3u8
