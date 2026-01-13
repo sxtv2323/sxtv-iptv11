@@ -1,25 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass 1 HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ðŸŽ¯ AL KASS SPORTS",Al Kass 1 HD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/248.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass 2 HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ðŸŽ¯ AL KASS SPORTS",Al Kass 2 HD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/249.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass 3 HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ðŸŽ¯ AL KASS SPORTS",Al Kass 3 HD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/250.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass 4 HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ðŸŽ¯ AL KASS SPORTS",Al Kass 4 HD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/251.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass 5 HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ðŸŽ¯ AL KASS SPORTS",Al Kass 5 HD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/343205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass 6 HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ðŸŽ¯ AL KASS SPORTS",Al Kass 6 HD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/343206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass 1 4K" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ðŸŽ¯ AL KASS SPORTS",Al Kass 1 4K
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/252.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass 2 4K" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ðŸŽ¯ AL KASS SPORTS",Al Kass 2 4K
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/253.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass 3 4K" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ðŸŽ¯ AL KASS SPORTS",Al Kass 3 4K
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/254.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass 4 4K" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ðŸŽ¯ AL KASS SPORTS",Al Kass 4 4K
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/255.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass 5 4K" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ðŸŽ¯ AL KASS SPORTS",Al Kass 5 4K
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/256.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass 6 4K" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ðŸŽ¯ AL KASS SPORTS",Al Kass 6 4K
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/343207.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 1HD" tvg-logo="" group-title="ARABIC SPORTS | OTT",AR|Al KASS 1HD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/401928.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 2HD" tvg-logo="" group-title="ARABIC SPORTS | OTT",AR|Al KASS 2HD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/401929.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 3HD" tvg-logo="" group-title="ARABIC SPORTS | OTT",AR|Al KASS 3HD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/401930.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 4HD" tvg-logo="" group-title="ARABIC SPORTS | OTT",AR|Al KASS 4HD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/401931.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 5HD" tvg-logo="" group-title="ARABIC SPORTS | OTT",AR|Al KASS 5HD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/401932.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 6HD" tvg-logo="" group-title="ARABIC SPORTS | OTT",AR|Al KASS 6HD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/401933.m3u8
