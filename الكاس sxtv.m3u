@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 1HD" tvg-logo="" group-title="ARABIC SPORTS | OTT",AR|Al KASS 1HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 1HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ARABIC SPORTS | OTT",AR|Al KASS 1HD
 http://199.115.193.116:8080/live/90337864331136/90337864331136/401928.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 2HD" tvg-logo="" group-title="ARABIC SPORTS | OTT",AR|Al KASS 2HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 2HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ARABIC SPORTS | OTT",AR|Al KASS 2HD
 http://199.115.193.116:8080/live/90337864331136/90337864331136/401929.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 3HD" tvg-logo="" group-title="ARABIC SPORTS | OTT",AR|Al KASS 3HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 3HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ARABIC SPORTS | OTT",AR|Al KASS 3HD
 http://199.115.193.116:8080/live/90337864331136/90337864331136/401930.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 4HD" tvg-logo="" group-title="ARABIC SPORTS | OTT",AR|Al KASS 4HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 4HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ARABIC SPORTS | OTT",AR|Al KASS 4HD
 http://199.115.193.116:8080/live/90337864331136/90337864331136/401931.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 5HD" tvg-logo="" group-title="ARABIC SPORTS | OTT",AR|Al KASS 5HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 5HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ARABIC SPORTS | OTT",AR|Al KASS 5HD
 http://199.115.193.116:8080/live/90337864331136/90337864331136/401932.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 6HD" tvg-logo="" group-title="ARABIC SPORTS | OTT",AR|Al KASS 6HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 6HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ARABIC SPORTS | OTT",AR|Al KASS 6HD
 http://199.115.193.116:8080/live/90337864331136/90337864331136/401933.m3u8
