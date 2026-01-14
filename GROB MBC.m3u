@@ -23,9 +23,12 @@ http://www.sansat.plus:88/live/1076065647/9729603286/164061.m3u8
 #EXTINF:-1 tvg-id="MBCMasr.ae" tvg-name="MBC Masr" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/5ade925168b7a8c7fc9a964a3f0f3030.jpg" group-title="AR-4K",MBC Masr
 http://www.sansat.plus:88/live/1076065647/9729603286/164062.m3u8
 
-#EXTINF:-1 tvg-id="MBCMasr2.ae" tvg-name="MBC Masr 2" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/185890e2bc7ab8b985f75fd44ff18318.jpg" group-title="AR-4K",MBC Masr 2
-http://www.sansat.plus:88/live/1076065647/9729603286/164063.m3u8
-
+#EXTINF:-1 xui-id="395913" tvg-id="" tvg-name="AR: MBC MASR2 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/f/ff/20180719183354%21Mbc-logo.jpg" group-title="MBC CHANNEL | ام بي سي",AR: MBC MASR2 UHD
+http://CAPTINTV.XYZ:8080/play/VbVsIQI_6Cs4fEL9jgb7EBkNSt7EH2yARHGOQRRen41NHqcF4RzGSNh5hgTT-9NO/m3u8
+#EXTINF:-1 xui-id="395914" tvg-id="" tvg-name="AR: MBC MASR2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/f/ff/20180719183354%21Mbc-logo.jpg" group-title="MBC CHANNEL | ام بي سي",AR: MBC MASR2 HD
+http://CAPTINTV.XYZ:8080/play/VbVsIQI_6Cs4fEL9jgb7EGsBmmsC4sw_pmNKAs9RODmoC519PrH5RdMicJeMKcDL/m3u8
+#EXTINF:-1 xui-id="395915" tvg-id="" tvg-name="AR: MBC MASR2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/f/ff/20180719183354%21Mbc-logo.jpg" group-title="MBC CHANNEL | ام بي سي",AR: MBC MASR2 SD
+http://CAPTINTV.XYZ:8080/play/VbVsIQI_6Cs4fEL9jgb7EN1LbtjLYHv-_60RpvruuEQRTntU8LHC1iMW5ZdqceHY/m3u8
 #EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-name="MBC Bollywood" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/72b505207cc48c9086df76934717bea5.jpg" group-title="AR-4K",MBC Bollywood
 http://www.sansat.plus:88/live/1076065647/9729603286/164064.m3u8
 
@@ -37,3 +40,4 @@ http://www.sansat.plus:88/live/1076065647/9729603286/164066.m3u8
 
 #EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="MBC Drama Plus" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/b98aed601b5c6ceedd78164eeb920740.jpg" group-title="AR-4K",MBC Drama Plus
 http://www.sansat.plus:88/live/1076065647/9729603286/164067.m3u8
+
