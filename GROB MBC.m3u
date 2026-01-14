@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/images%20(6).jpeg" group-title="AR-4K",MBC 1
-http://www.sansat.plus:88/1076065647/9729603286/164055
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MBC 1" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/images%20(6).jpeg" group-title="AR-4K",MBC 1
+http://www.sansat.plus:88/live/1076065647/9729603286/164055.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/images%20(7).jpeg" group-title="AR-4K",MBC 2
-http://www.sansat.plus:88/1076065647/9729603286/164056
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/images%20(7).jpeg" group-title="AR-4K",MBC 2
+http://www.sansat.plus:88/live/1076065647/9729603286/164056.m3u8
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/MY-HD/MY MBC3.png" group-title="AR-4K",MBC 3
-http://www.sansat.plus:88/1076065647/9729603286/164057
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="MBC 3" tvg-logo="http://138.199.27.237:8080/MY-HD/MY%20MBC3.png" group-title="AR-4K",MBC 3
+http://www.sansat.plus:88/live/1076065647/9729603286/164057.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ailshikar111g/php-/refs/heads/main/images%20(1).webp" group-title="AR-4K",MBC 4
-http://www.sansat.plus:88/1076065647/9729603286/164058
+#EXTINF:-1 tvg-id="MBC4.ae" tvg-name="MBC 4" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/php-/refs/heads/main/images%20(1).webp" group-title="AR-4K",MBC 4
+http://www.sansat.plus:88/live/1076065647/9729603286/164058.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/%D8%AA%D9%86%D8%B2%D9%8A%D9%84.jpeg" group-title="AR-4K",MBC 5
-http://www.sansat.plus:88/1076065647/9729603286/164059
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="MBC 5" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/%D8%AA%D9%86%D8%B2%D9%8A%D9%84.jpeg" group-title="AR-4K",MBC 5
+http://www.sansat.plus:88/live/1076065647/9729603286/164059.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/858013316a491f490ae0e515767c979e.jpg" group-title="AR-4K",MBC ACTION
-http://www.sansat.plus:88/1076065647/9729603286/164060
+#EXTINF:-1 tvg-id="MBCAction.ae" tvg-name="MBC Action" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/858013316a491f490ae0e515767c979e.jpg" group-title="AR-4K",MBC Action
+http://www.sansat.plus:88/live/1076065647/9729603286/164060.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/8a0c266276dd1f4dc79b96f48ddb8cb7.jpg" group-title="AR-4K",MBC DRAMA
-http://www.sansat.plus:88/1076065647/9729603286/164061
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MBC Drama" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/8a0c266276dd1f4dc79b96f48ddb8cb7.jpg" group-title="AR-4K",MBC Drama
+http://www.sansat.plus:88/live/1076065647/9729603286/164061.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/5ade925168b7a8c7fc9a964a3f0f3030.jpg" group-title="AR-4K",MBC MASR
-http://www.sansat.plus:88/1076065647/9729603286/164062
+#EXTINF:-1 tvg-id="MBCMasr.ae" tvg-name="MBC Masr" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/5ade925168b7a8c7fc9a964a3f0f3030.jpg" group-title="AR-4K",MBC Masr
+http://www.sansat.plus:88/live/1076065647/9729603286/164062.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/185890e2bc7ab8b985f75fd44ff18318.jpg" group-title="AR-4K",MBC MASR 2
-http://www.sansat.plus:88/1076065647/9729603286/164063
+#EXTINF:-1 tvg-id="MBCMasr2.ae" tvg-name="MBC Masr 2" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/185890e2bc7ab8b985f75fd44ff18318.jpg" group-title="AR-4K",MBC Masr 2
+http://www.sansat.plus:88/live/1076065647/9729603286/164063.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/72b505207cc48c9086df76934717bea5.jpg" group-title="AR-4K",MBC BOLLYWOOD
-http://www.sansat.plus:88/1076065647/9729603286/164064
+#EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-name="MBC Bollywood" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/72b505207cc48c9086df76934717bea5.jpg" group-title="AR-4K",MBC Bollywood
+http://www.sansat.plus:88/live/1076065647/9729603286/164064.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="AR-4K",MBC MAX
-http://www.sansat.plus:88/1076065647/9729603286/164065
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="MBC Max" tvg-logo="https://i.imgur.com/placeholder.jpg" group-title="AR-4K",MBC Max
+http://www.sansat.plus:88/live/1076065647/9729603286/164065.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/8368844d7489d0eedfae8094885f6010.jpg" group-title="AR-4K",MBC IRAQ
-http://www.sansat.plus:88/1076065647/9729603286/164066
+#EXTINF:-1 tvg-id="MBCIraq.ae" tvg-name="MBC Iraq" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/8368844d7489d0eedfae8094885f6010.jpg" group-title="AR-4K",MBC Iraq
+http://www.sansat.plus:88/live/1076065647/9729603286/164066.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/b98aed601b5c6ceedd78164eeb920740.jpg" group-title="AR-4K",MBC DRAMA PLUS
-http://www.sansat.plus:88/1076065647/9729603286/164067
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="MBC Drama Plus" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/b98aed601b5c6ceedd78164eeb920740.jpg" group-title="AR-4K",MBC Drama Plus
+http://www.sansat.plus:88/live/1076065647/9729603286/164067.m3u8
