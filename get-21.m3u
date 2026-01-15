@@ -393,6 +393,874 @@ http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/211.m3u8
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/212.m3u8
 #EXTINF:-1,beIN-SPORTS-4-MAX-LQ
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/213.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="===== CUP AFRICA 2025 =====" tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="BEIN SPORTS HD",===== CUP AFRICA 2025 =====
+http://prosan.tv:88/02017055776592/9009841324/235809
+#EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="BEIN SPORTS MAX 1 HD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="BEIN SPORTS HD",BEIN SPORTS MAX 1 HD LIVE
+http://prosan.tv:88/02017055776592/9009841324/1585680
+#EXTINF:-1 tvg-ID="beinsportsmax2.qa" tvg-name="BEIN SPORTS MAX 2 HD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="BEIN SPORTS HD",BEIN SPORTS MAX 2 HD LIVE
+http://prosan.tv:88/02017055776592/9009841324/1585681
+#EXTINF:-1 tvg-ID="beinsportsmax3.qa" tvg-name="BEIN SPORTS MAX 3 EN HD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="BEIN SPORTS HD",BEIN SPORTS MAX 3 EN HD LIVE
+http://prosan.tv:88/02017055776592/9009841324/1585682
+#EXTINF:-1 tvg-ID="beinsportsmax4.qa" tvg-name="BEIN SPORTS MAX 4 FR HD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="BEIN SPORTS HD",BEIN SPORTS MAX 4 FR HD LIVE
+http://prosan.tv:88/02017055776592/9009841324/1585683
+#EXTINF:-1 tvg-ID="" tvg-name="=====  BEINSPORT  HD =====" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="BEIN SPORTS HD",=====  BEINSPORT  HD =====
+http://promo.sansat.biz:25461/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="beinsportsnews.qa" tvg-name="BEIN SPORTS NEWS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_NEWS.png" group-title="BEIN SPORTS HD",BEIN SPORTS NEWS
+http://prosan.tv:88/02017055776592/9009841324/290371
+#EXTINF:-1 tvg-ID="beinsportsglobal.qa" tvg-name="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS.png" group-title="BEIN SPORTS HD",BEIN SPORTS HD
+http://prosan.tv:88/02017055776592/9009841324/6727
+#EXTINF:-1 tvg-ID="beinsportsglobal.qa" tvg-name="BEIN SPORTS HD B2" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS.png" group-title="BEIN SPORTS HD",BEIN SPORTS HD B2
+http://prosan.tv:88/02017055776592/9009841324/667032
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 HD " tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 HD 
+http://prosan.tv:88/02017055776592/9009841324/60954
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 HD B2" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 HD B2
+http://prosan.tv:88/02017055776592/9009841324/394073
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BEIN SPORTS 2 HD " tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_2.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 HD 
+http://prosan.tv:88/02017055776592/9009841324/60955
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BEIN SPORTS 2 HD B2" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 HD B2
+http://prosan.tv:88/02017055776592/9009841324/394074
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 HD " tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_3.png" group-title="BEIN SPORTS HD",BEIN SPORTS 3 HD 
+http://prosan.tv:88/02017055776592/9009841324/60956
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 HD B2" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3.png" group-title="BEIN SPORTS HD",BEIN SPORTS 3 HD B2
+http://prosan.tv:88/02017055776592/9009841324/394075
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 4" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_4.png" group-title="BEIN SPORTS HD",BEIN SPORTS 4
+http://prosan.tv:88/02017055776592/9009841324/5231
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 4 HD B2" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4.png" group-title="BEIN SPORTS HD",BEIN SPORTS 4 HD B2
+http://prosan.tv:88/02017055776592/9009841324/576496
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="BEIN SPORTS 5" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_5.png" group-title="BEIN SPORTS HD",BEIN SPORTS 5
+http://prosan.tv:88/02017055776592/9009841324/5229
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="BEIN SPORTS 5 HD B2" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_5.png" group-title="BEIN SPORTS HD",BEIN SPORTS 5 HD B2
+http://prosan.tv:88/02017055776592/9009841324/576497
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="BEIN SPORTS 6" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_6.png" group-title="BEIN SPORTS HD",BEIN SPORTS 6
+http://prosan.tv:88/02017055776592/9009841324/5233
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="BEIN SPORTS 6 HD B2" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_6.png" group-title="BEIN SPORTS HD",BEIN SPORTS 6 HD B2
+http://prosan.tv:88/02017055776592/9009841324/576498
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="BEIN SPORTS 7" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_7.png" group-title="BEIN SPORTS HD",BEIN SPORTS 7
+http://prosan.tv:88/02017055776592/9009841324/5235
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="BEIN SPORTS 7 HD B2" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_7.png" group-title="BEIN SPORTS HD",BEIN SPORTS 7 HD B2
+http://prosan.tv:88/02017055776592/9009841324/576499
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="BEIN SPORTS 8" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_8.png" group-title="BEIN SPORTS HD",BEIN SPORTS 8
+http://prosan.tv:88/02017055776592/9009841324/5237
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="BEIN SPORTS 8 HD B2" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_8.png" group-title="BEIN SPORTS HD",BEIN SPORTS 8 HD B2
+http://prosan.tv:88/02017055776592/9009841324/576500
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="BEIN SPORTS 9" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_9.png" group-title="BEIN SPORTS HD",BEIN SPORTS 9
+http://prosan.tv:88/02017055776592/9009841324/5239
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="BEIN SPORTS 9 HD B2" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_9.png" group-title="BEIN SPORTS HD",BEIN SPORTS 9 HD B2
+http://prosan.tv:88/02017055776592/9009841324/576501
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="BEIN SPORTS 1 ENGLISH" tvg-logo="http://vodkom.com:25461/Logo/BEIN1/eng-1-HD.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 ENGLISH
+http://prosan.tv:88/02017055776592/9009841324/5241
+#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="BEIN SPORTS XTRA 1 HD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_XTRA_1.png" group-title="BEIN SPORTS HD",BEIN SPORTS XTRA 1 HD
+http://prosan.tv:88/02017055776592/9009841324/135165
+#EXTINF:-1 tvg-ID="beinsportsxtra2.qa" tvg-name="BEIN SPORTS XTRA 2 HD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_XTRA_2.png" group-title="BEIN SPORTS HD",BEIN SPORTS XTRA 2 HD
+http://prosan.tv:88/02017055776592/9009841324/135166
+#EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="BEIN SPORTS XTRA 3" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_XTRA_3.png" group-title="BEIN SPORTS HD",BEIN SPORTS XTRA 3
+http://prosan.tv:88/02017055776592/9009841324/5240
+#EXTINF:-1 tvg-ID="beinsportsafc1.qa" tvg-name="|AR| BEIN SPORTS AFC 5 HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_AFC_5.png" group-title="BEIN SPORTS AFC",|AR| BEIN SPORTS AFC 5 HD
+http://prosan.tv:88/02017055776592/9009841324/435960
+#EXTINF:-1 tvg-ID="beINSportsAFC.qa" tvg-name="|AR| BEIN SPORTS AFC SD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_AFC.png" group-title="BEIN SPORTS AFC",|AR| BEIN SPORTS AFC SD
+http://prosan.tv:88/02017055776592/9009841324/435961
+#EXTINF:-1 tvg-ID="beINSportsAFC1.qa" tvg-name="|AR| BEIN SPORTS AFC 1 SD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_AFC_1.png" group-title="BEIN SPORTS AFC",|AR| BEIN SPORTS AFC 1 SD
+http://prosan.tv:88/02017055776592/9009841324/435962
+#EXTINF:-1 tvg-ID="beINSportsAFC2.qa" tvg-name="|AR| BEIN SPORTS AFC 2 SD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_AFC_2.png" group-title="BEIN SPORTS AFC",|AR| BEIN SPORTS AFC 2 SD
+http://prosan.tv:88/02017055776592/9009841324/435963
+#EXTINF:-1 tvg-ID="beinsportsafc3.qa" tvg-name="|AR| BEIN SPORTS AFC 3 SD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_AFC_3.png" group-title="BEIN SPORTS AFC",|AR| BEIN SPORTS AFC 3 SD
+http://prosan.tv:88/02017055776592/9009841324/435964
+#EXTINF:-1 tvg-ID="" tvg-name="===== BEINSPORT FHD =====" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS.png" group-title="BEIN SPORTS HD",===== BEINSPORT FHD =====
+http://promo.sansat.biz:25461/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 FHD
+http://prosan.tv:88/02017055776592/9009841324/60958
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 FHD
+http://prosan.tv:88/02017055776592/9009841324/28751
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_3.png" group-title="BEIN SPORTS HD",BEIN SPORTS 3 FHD
+http://prosan.tv:88/02017055776592/9009841324/60959
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_4.png" group-title="BEIN SPORTS HD",BEIN SPORTS 4 FHD
+http://prosan.tv:88/02017055776592/9009841324/36301
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_5.png" group-title="BEIN SPORTS HD",BEIN SPORTS 5 FHD
+http://prosan.tv:88/02017055776592/9009841324/36302
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_6.png" group-title="BEIN SPORTS HD",BEIN SPORTS 6 FHD
+http://prosan.tv:88/02017055776592/9009841324/36300
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="BEIN SPORTS 7 FHD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_7.png" group-title="BEIN SPORTS HD",BEIN SPORTS 7 FHD
+http://prosan.tv:88/02017055776592/9009841324/36299
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="BEIN SPORTS 8 FHD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_8.png" group-title="BEIN SPORTS HD",BEIN SPORTS 8 FHD
+http://prosan.tv:88/02017055776592/9009841324/36298
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="BEIN SPORTS 9 FHD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_9.png" group-title="BEIN SPORTS HD",BEIN SPORTS 9 FHD
+http://prosan.tv:88/02017055776592/9009841324/36297
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="BEIN SPORTS 1 ENGLISH FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN1/eng-1-fhd.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 ENGLISH FHD
+http://prosan.tv:88/02017055776592/9009841324/36295
+#EXTINF:-1 tvg-ID="beinsports1fr.qa" tvg-name="BEIN SPORTS 1 FRENCH FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN1/Fr-1-FHD.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 FRENCH FHD
+http://prosan.tv:88/02017055776592/9009841324/63499
+#EXTINF:-1 tvg-ID="beinsports2fr.qa" tvg-name="BEIN SPORTS 2 FRENCH FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN1/Fr-2-FHD.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 FRENCH FHD
+http://prosan.tv:88/02017055776592/9009841324/63500
+#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="BEIN SPORTS XTRA 1 FHD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_XTRA_1.png" group-title="BEIN SPORTS HD",BEIN SPORTS XTRA 1 FHD
+http://prosan.tv:88/02017055776592/9009841324/135167
+#EXTINF:-1 tvg-ID="beinsportsxtra2.qa" tvg-name="BEIN SPORTS XTRA 2 FHD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_XTRA_2.png" group-title="BEIN SPORTS HD",BEIN SPORTS XTRA 2 FHD
+http://prosan.tv:88/02017055776592/9009841324/135168
+#EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="BEIN SPORTS XTRA 3 FHD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_XTRA_3.png" group-title="BEIN SPORTS HD",BEIN SPORTS XTRA 3 FHD
+http://prosan.tv:88/02017055776592/9009841324/36296
+#EXTINF:-1 tvg-ID="beINSportsAFC.qa" tvg-name="|AR| BEIN SPORTS AFC 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_AFC.png" group-title="BEIN SPORTS AFC",|AR| BEIN SPORTS AFC 4K
+http://prosan.tv:88/02017055776592/9009841324/176994
+#EXTINF:-1 tvg-ID="beINSportsAFC1.qa" tvg-name="|AR| BEIN SPORTS AFC 1 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_AFC_1.png" group-title="BEIN SPORTS AFC",|AR| BEIN SPORTS AFC 1 4K
+http://prosan.tv:88/02017055776592/9009841324/176995
+#EXTINF:-1 tvg-ID="" tvg-name="===== BEINSPORT SD =====" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS.png" group-title="BEIN SPORTS HD",===== BEINSPORT SD =====
+http://promo.sansat.biz:25461/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 SD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 SD
+http://prosan.tv:88/02017055776592/9009841324/60960
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="BEIN SPORTS 2 SD " tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_2.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 SD 
+http://prosan.tv:88/02017055776592/9009841324/60961
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 SD " tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_3.png" group-title="BEIN SPORTS HD",BEIN SPORTS 3 SD 
+http://prosan.tv:88/02017055776592/9009841324/60962
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 4 SD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_4.png" group-title="BEIN SPORTS HD",BEIN SPORTS 4 SD
+http://prosan.tv:88/02017055776592/9009841324/60967
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="BEIN SPORTS 5 SD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_5.png" group-title="BEIN SPORTS HD",BEIN SPORTS 5 SD
+http://prosan.tv:88/02017055776592/9009841324/60970
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="BEIN SPORTS 6 SD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_6.png" group-title="BEIN SPORTS HD",BEIN SPORTS 6 SD
+http://prosan.tv:88/02017055776592/9009841324/60969
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="BEIN SPORTS 7 SD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_7.png" group-title="BEIN SPORTS HD",BEIN SPORTS 7 SD
+http://prosan.tv:88/02017055776592/9009841324/60963
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="BEIN SPORTS 8 SD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_8.png" group-title="BEIN SPORTS HD",BEIN SPORTS 8 SD
+http://prosan.tv:88/02017055776592/9009841324/60964
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="BEIN SPORTS 9 SD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_9.png" group-title="BEIN SPORTS HD",BEIN SPORTS 9 SD
+http://prosan.tv:88/02017055776592/9009841324/60965
+#EXTINF:-1 tvg-ID="beINSports1En.qa" tvg-name="BEIN SPORTS 1 ENGLISH SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN1/eng-1-SD.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 ENGLISH SD
+http://prosan.tv:88/02017055776592/9009841324/63503
+#EXTINF:-1 tvg-ID="beinsports1fr.qa" tvg-name="BEIN SPORTS 1 FRENCH SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN1/fr-1-SD.png" group-title="BEIN SPORTS HD",BEIN SPORTS 1 FRENCH SD
+http://prosan.tv:88/02017055776592/9009841324/117945
+#EXTINF:-1 tvg-ID="beinsports2fr.qa" tvg-name="BEIN SPORTS 2 FRENCH SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN1/fr-2-SD.png" group-title="BEIN SPORTS HD",BEIN SPORTS 2 FRENCH SD
+http://prosan.tv:88/02017055776592/9009841324/117946
+#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="BEIN SPORTS XTRA 1 SD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_XTRA_1.png" group-title="BEIN SPORTS HD",BEIN SPORTS XTRA 1 SD
+http://prosan.tv:88/02017055776592/9009841324/117948
+#EXTINF:-1 tvg-ID="beinsportsxtra2.qa" tvg-name="BEIN SPORTS XTRA 2 SD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_XTRA_2.png" group-title="BEIN SPORTS HD",BEIN SPORTS XTRA 2 SD
+http://prosan.tv:88/02017055776592/9009841324/117949
+#EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="BEIN SPORTS XTRA 3 SD" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_XTRA_3.png" group-title="BEIN SPORTS HD",BEIN SPORTS XTRA 3 SD
+http://prosan.tv:88/02017055776592/9009841324/60966
+#EXTINF:-1 tvg-ID="beinsportsafc.qa" tvg-name="|AR| BEIN SPORTS AFC 4 SD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_AFC_4.png" group-title="BEIN SPORTS AFC",|AR| BEIN SPORTS AFC 4 SD
+http://prosan.tv:88/02017055776592/9009841324/435965
+#EXTINF:-1 tvg-ID="beinsportsafc1.qa" tvg-name="|AR| BEIN SPORTS AFC 5 SD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_AFC_5.png" group-title="BEIN SPORTS AFC",|AR| BEIN SPORTS AFC 5 SD
+http://prosan.tv:88/02017055776592/9009841324/435966
+#EXTINF:-1 tvg-ID="beINSportsAFC1.qa" tvg-name="|AR| BEIN SPORTS AFC 1 HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_AFC_1.png" group-title="BEIN SPORTS AFC",|AR| BEIN SPORTS AFC 1 HD
+http://prosan.tv:88/02017055776592/9009841324/435955
+#EXTINF:-1 tvg-ID="beINSportsAFC2.qa" tvg-name="|AR| BEIN SPORTS AFC 2 HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_AFC_2.png" group-title="BEIN SPORTS AFC",|AR| BEIN SPORTS AFC 2 HD
+http://prosan.tv:88/02017055776592/9009841324/435956
+#EXTINF:-1 tvg-ID="beINSportsAFC3.qa" tvg-name="|AR| BEIN SPORTS AFC 3 HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_AFC_3.png" group-title="BEIN SPORTS AFC",|AR| BEIN SPORTS AFC 3 HD
+http://prosan.tv:88/02017055776592/9009841324/435957
+#EXTINF:-1 tvg-ID="beinsportsafc4.qa" tvg-name="|AR| BEIN SPORTS AFC 4 HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_AFC_4.png" group-title="BEIN SPORTS AFC",|AR| BEIN SPORTS AFC 4 HD
+http://prosan.tv:88/02017055776592/9009841324/435958
+#EXTINF:-1 tvg-ID="alkassone.qa" tvg-name="|AR| ALKASS 1 4K" tvg-logo="http://vodkom.com:25461/MYALKASS/alkassonehd.png" group-title="ALKASS SPORTS",|AR| ALKASS 1 4K
+http://prosan.tv:88/02017055776592/9009841324/693693
+#EXTINF:-1 tvg-ID="alkasstwo.qa" tvg-name="|AR| ALKASS 2 4K" tvg-logo="http://vodkom.com:25461/MYALKASS/alkasstwohd.png" group-title="ALKASS SPORTS",|AR| ALKASS 2 4K
+http://prosan.tv:88/02017055776592/9009841324/693694
+#EXTINF:-1 tvg-ID="alkassthree.qa" tvg-name="|AR| ALKASS 3 4K" tvg-logo="http://vodkom.com:25461/MYALKASS/alkassthreehd.png" group-title="ALKASS SPORTS",|AR| ALKASS 3 4K
+http://prosan.tv:88/02017055776592/9009841324/693695
+#EXTINF:-1 tvg-ID="alkassfour.qa" tvg-name="|AR| ALKASS 4 4K" tvg-logo="http://vodkom.com:25461/MYALKASS/alkassfourhd.png" group-title="ALKASS SPORTS",|AR| ALKASS 4 4K
+http://prosan.tv:88/02017055776592/9009841324/693696
+#EXTINF:-1 tvg-ID="alkassfive.qa" tvg-name="|AR| ALKASS 5 4K" tvg-logo="http://vodkom.com:25461/MYALKASS/alkassfivehd.png" group-title="ALKASS SPORTS",|AR| ALKASS 5 4K
+http://prosan.tv:88/02017055776592/9009841324/693697
+#EXTINF:-1 tvg-ID="alkasssix.qa" tvg-name="|AR| ALKASS 6 4K" tvg-logo="http://vodkom.com:25461/MYALKASS/alkasssixhd.png" group-title="ALKASS SPORTS",|AR| ALKASS 6 4K
+http://prosan.tv:88/02017055776592/9009841324/693698
+#EXTINF:-1 tvg-ID="alkassseven.qa" tvg-name="|AR| ALKASS 7 4K" tvg-logo="http://vodkom.com:25461/MYALKASS/alkasssevenhd.png" group-title="ALKASS SPORTS",|AR| ALKASS 7 4K
+http://prosan.tv:88/02017055776592/9009841324/693699
+#EXTINF:-1 tvg-ID="alkasseight.qa" tvg-name="|AR| ALKASS 8 4K" tvg-logo="http://vodkom.com:25461/MYALKASS/alkasseighthd.png" group-title="ALKASS SPORTS",|AR| ALKASS 8 4K
+http://prosan.tv:88/02017055776592/9009841324/693700
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 1 HD" tvg-logo="" group-title="ALWAN SPORT",Alwan Sport 1 HD
+http://prosan.tv:88/02017055776592/9009841324/852915
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 1 SD" tvg-logo="" group-title="ALWAN SPORT",Alwan Sport 1 SD
+http://prosan.tv:88/02017055776592/9009841324/852916
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 1 4K" tvg-logo="" group-title="ALWAN SPORT",Alwan Sport 1 4K
+http://prosan.tv:88/02017055776592/9009841324/852917
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 2 HD" tvg-logo="" group-title="ALWAN SPORT",Alwan Sport 2 HD
+http://prosan.tv:88/02017055776592/9009841324/852918
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 2 SD" tvg-logo="" group-title="ALWAN SPORT",Alwan Sport 2 SD
+http://prosan.tv:88/02017055776592/9009841324/852919
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 2 4K" tvg-logo="" group-title="ALWAN SPORT",Alwan Sport 2 4K
+http://prosan.tv:88/02017055776592/9009841324/852920
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 3 HD" tvg-logo="" group-title="ALWAN SPORT",Alwan Sport 3 HD
+http://prosan.tv:88/02017055776592/9009841324/852921
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 3 SD" tvg-logo="" group-title="ALWAN SPORT",Alwan Sport 3 SD
+http://prosan.tv:88/02017055776592/9009841324/852922
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 3 4K" tvg-logo="" group-title="ALWAN SPORT",Alwan Sport 3 4K
+http://prosan.tv:88/02017055776592/9009841324/852923
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 4 HD" tvg-logo="" group-title="ALWAN SPORT",Alwan Sport 4 HD
+http://prosan.tv:88/02017055776592/9009841324/852924
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 4 SD" tvg-logo="" group-title="ALWAN SPORT",Alwan Sport 4 SD
+http://prosan.tv:88/02017055776592/9009841324/852925
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 4 4K" tvg-logo="" group-title="ALWAN SPORT",Alwan Sport 4 4K
+http://prosan.tv:88/02017055776592/9009841324/852926
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 5 HD" tvg-logo="" group-title="ALWAN SPORT",Alwan Sport 5 HD
+http://prosan.tv:88/02017055776592/9009841324/852927
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 5 SD" tvg-logo="" group-title="ALWAN SPORT",Alwan Sport 5 SD
+http://prosan.tv:88/02017055776592/9009841324/852928
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 5 4K" tvg-logo="" group-title="ALWAN SPORT",Alwan Sport 5 4K
+http://prosan.tv:88/02017055776592/9009841324/852929
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 6 HD" tvg-logo="" group-title="ALWAN SPORT",Alwan Sport 6 HD
+http://prosan.tv:88/02017055776592/9009841324/852930
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 6 SD" tvg-logo="" group-title="ALWAN SPORT",Alwan Sport 6 SD
+http://prosan.tv:88/02017055776592/9009841324/852931
+#EXTINF:-1 tvg-ID="" tvg-name="Alwan Sport 6 4K" tvg-logo="" group-title="ALWAN SPORT",Alwan Sport 6 4K
+http://prosan.tv:88/02017055776592/9009841324/852932
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 1 FHD" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 1 FHD
+http://prosan.tv:88/02017055776592/9009841324/1644648
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 1 HD" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 1 HD
+http://prosan.tv:88/02017055776592/9009841324/1644649
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 1 SD" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 1 SD
+http://prosan.tv:88/02017055776592/9009841324/1644650
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| DAZNⁿˣ F1" tvg-logo="" group-title="SHAHID | SHASHA | DAZN",|AR| DAZNⁿˣ F1
+http://prosan.tv:88/02017055776592/9009841324/1079704
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| DAZNⁿˣ ONAIR1" tvg-logo="" group-title="SHAHID | SHASHA | DAZN",|AR| DAZNⁿˣ ONAIR1
+http://prosan.tv:88/02017055776592/9009841324/1079705
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| DAZNⁿˣ ONAIR2" tvg-logo="" group-title="SHAHID | SHASHA | DAZN",|AR| DAZNⁿˣ ONAIR2
+http://prosan.tv:88/02017055776592/9009841324/1079706
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| DAZNⁿˣ ONAIR3" tvg-logo="" group-title="SHAHID | SHASHA | DAZN",|AR| DAZNⁿˣ ONAIR3
+http://prosan.tv:88/02017055776592/9009841324/1079707
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| DAZNⁿˣ ONAIR4" tvg-logo="" group-title="SHAHID | SHASHA | DAZN",|AR| DAZNⁿˣ ONAIR4
+http://prosan.tv:88/02017055776592/9009841324/1079708
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| DAZNⁿˣ ONAIR5" tvg-logo="" group-title="SHAHID | SHASHA | DAZN",|AR| DAZNⁿˣ ONAIR5
+http://prosan.tv:88/02017055776592/9009841324/1079709
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| DAZNⁿˣ ONAIR6" tvg-logo="" group-title="SHAHID | SHASHA | DAZN",|AR| DAZNⁿˣ ONAIR6
+http://prosan.tv:88/02017055776592/9009841324/1079710
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| DAZNⁿˣ ONAIR7" tvg-logo="" group-title="SHAHID | SHASHA | DAZN",|AR| DAZNⁿˣ ONAIR7
+http://prosan.tv:88/02017055776592/9009841324/1079711
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| DAZNⁿˣ ONAIR8" tvg-logo="" group-title="SHAHID | SHASHA | DAZN",|AR| DAZNⁿˣ ONAIR8
+http://prosan.tv:88/02017055776592/9009841324/1079712
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| DAZNⁿˣ ONAIR9" tvg-logo="" group-title="SHAHID | SHASHA | DAZN",|AR| DAZNⁿˣ ONAIR9
+http://prosan.tv:88/02017055776592/9009841324/1079713
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| DAZNⁿˣ ONAIR10" tvg-logo="" group-title="SHAHID | SHASHA | DAZN",|AR| DAZNⁿˣ ONAIR10
+http://prosan.tv:88/02017055776592/9009841324/1079714
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| DAZNⁿˣ ONAIR11" tvg-logo="" group-title="SHAHID | SHASHA | DAZN",|AR| DAZNⁿˣ ONAIR11
+http://prosan.tv:88/02017055776592/9009841324/1079715
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| DAZNⁿˣ ONAIR12" tvg-logo="" group-title="SHAHID | SHASHA | DAZN",|AR| DAZNⁿˣ ONAIR12
+http://prosan.tv:88/02017055776592/9009841324/1079716
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHASHA 1 (Event Only)" tvg-logo="" group-title="SHAHID | SHASHA | DAZN",|AR| SHASHA 1 (Event Only)
+http://prosan.tv:88/02017055776592/9009841324/1302037
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHASHA 2 (Event Only)" tvg-logo="" group-title="SHAHID | SHASHA | DAZN",|AR| SHASHA 2 (Event Only)
+http://prosan.tv:88/02017055776592/9009841324/1302038
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHASHA 3 (Event Only)" tvg-logo="" group-title="SHAHID | SHASHA | DAZN",|AR| SHASHA 3 (Event Only)
+http://prosan.tv:88/02017055776592/9009841324/1302039
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 1 4K" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 1 4K
+http://prosan.tv:88/02017055776592/9009841324/1079684
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 2 4K" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 2 4K
+http://prosan.tv:88/02017055776592/9009841324/1079685
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 3 4K" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 3 4K
+http://prosan.tv:88/02017055776592/9009841324/1079686
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 4 4K" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 4 4K
+http://prosan.tv:88/02017055776592/9009841324/1079687
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 1 FHD" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 1 FHD
+http://prosan.tv:88/02017055776592/9009841324/1079688
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 2 FHD" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 2 FHD
+http://prosan.tv:88/02017055776592/9009841324/1079689
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 3 FHD" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 3 FHD
+http://prosan.tv:88/02017055776592/9009841324/1079690
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 4 FHD" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 4 FHD
+http://prosan.tv:88/02017055776592/9009841324/1079691
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 1 HD" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 1 HD
+http://prosan.tv:88/02017055776592/9009841324/1079692
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 2 HD" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 2 HD
+http://prosan.tv:88/02017055776592/9009841324/1079693
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 3 HD" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 3 HD
+http://prosan.tv:88/02017055776592/9009841324/1079694
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 4 HD" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 4 HD
+http://prosan.tv:88/02017055776592/9009841324/1079695
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 1 SD" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 1 SD
+http://prosan.tv:88/02017055776592/9009841324/1079696
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 2 SD" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 2 SD
+http://prosan.tv:88/02017055776592/9009841324/1079697
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 3 SD" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 3 SD
+http://prosan.tv:88/02017055776592/9009841324/1079698
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 4 SD" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 4 SD
+http://prosan.tv:88/02017055776592/9009841324/1079699
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 1 LOW" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 1 LOW
+http://prosan.tv:88/02017055776592/9009841324/1079700
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 3 LOW" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 3 LOW
+http://prosan.tv:88/02017055776592/9009841324/1079701
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 2 LOW" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 2 LOW
+http://prosan.tv:88/02017055776592/9009841324/1079702
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| SHAHID SPORTS 4 LOW" tvg-logo="http://shahid.mbc.net/mediaObject/shahidlogo/light/Shahid_logo_light/original/Shahid_logo_light.png" group-title="SHAHID | SHASHA | DAZN",|AR| SHAHID SPORTS 4 LOW
+http://prosan.tv:88/02017055776592/9009841324/1079703
+#EXTINF:-1 tvg-ID="" tvg-name="===== CAF AFRICA 2025 ====" tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="CUP AFRICA 2025",===== CAF AFRICA 2025 ====
+http://prosan.tv:88/02017055776592/9009841324/1625588
+#EXTINF:-1 tvg-ID="" tvg-name="======== 4K HEVC ======== " tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="CUP AFRICA 2025",======== 4K HEVC ======== 
+http://prosan.tv:88/02017055776592/9009841324/1633206
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 4k SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 4k SA
+http://prosan.tv:88/02017055776592/9009841324/1583780
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 4K NX" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 4K NX
+http://prosan.tv:88/02017055776592/9009841324/1633207
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 4K S3" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 4K S3
+http://prosan.tv:88/02017055776592/9009841324/1583781
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 4K LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 4K LO
+http://prosan.tv:88/02017055776592/9009841324/1633208
+#EXTINF:-1 tvg-ID="" tvg-name="======== FHD 1080p ========" tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="CUP AFRICA 2025",======== FHD 1080p ========
+http://prosan.tv:88/02017055776592/9009841324/1633209
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 FHD MS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 FHD MS
+http://prosan.tv:88/02017055776592/9009841324/1633210
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 FHD LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 FHD LO
+http://prosan.tv:88/02017055776592/9009841324/1633211
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 FHD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 FHD SS
+http://prosan.tv:88/02017055776592/9009841324/1583782
+#EXTINF:-1 tvg-ID="" tvg-name="======== HD 720p ========" tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="CUP AFRICA 2025",======== HD 720p ========
+http://prosan.tv:88/02017055776592/9009841324/1633212
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 HD SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 HD SA
+http://prosan.tv:88/02017055776592/9009841324/1633214
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 HD NX" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 HD NX
+http://prosan.tv:88/02017055776592/9009841324/1633213
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 HD LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 HD LO
+http://prosan.tv:88/02017055776592/9009841324/1633215
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 HD SS
+http://prosan.tv:88/02017055776592/9009841324/1633216
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 HD MS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 HD MS
+http://prosan.tv:88/02017055776592/9009841324/1583783
+#EXTINF:-1 tvg-ID="" tvg-name="======== SD 480p ============" tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="CUP AFRICA 2025",======== SD 480p ============
+http://prosan.tv:88/02017055776592/9009841324/1633217
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 SD SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 SD SA
+http://prosan.tv:88/02017055776592/9009841324/1633219
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 SD NX" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 SD NX
+http://prosan.tv:88/02017055776592/9009841324/1633218
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 SD MS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 SD MS
+http://prosan.tv:88/02017055776592/9009841324/1633220
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 SD LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 SD LO
+http://prosan.tv:88/02017055776592/9009841324/1633221
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 1 SD SS
+http://prosan.tv:88/02017055776592/9009841324/1583785
+#EXTINF:-1 tvg-ID="" tvg-name="======== 4K HEVC ======== " tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="CUP AFRICA 2025",======== 4K HEVC ======== 
+http://prosan.tv:88/02017055776592/9009841324/1633222
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 4k SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 4k SA
+http://prosan.tv:88/02017055776592/9009841324/1583786
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 4K MS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 4K MS
+http://prosan.tv:88/02017055776592/9009841324/1633223
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 4K LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 4K LO
+http://prosan.tv:88/02017055776592/9009841324/1633224
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 4K NX" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 4K NX
+http://prosan.tv:88/02017055776592/9009841324/1583787
+#EXTINF:-1 tvg-ID="" tvg-name="======== FHD 1080p ========" tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="CUP AFRICA 2025",======== FHD 1080p ========
+http://prosan.tv:88/02017055776592/9009841324/1633225
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 FHD SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 FHD SA
+http://prosan.tv:88/02017055776592/9009841324/1633226
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 FHD MS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 FHD MS
+http://prosan.tv:88/02017055776592/9009841324/1633227
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 FHD LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 FHD LO
+http://prosan.tv:88/02017055776592/9009841324/1633228
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 FHD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 FHD SS
+http://prosan.tv:88/02017055776592/9009841324/1583788
+#EXTINF:-1 tvg-ID="" tvg-name="======== HD 720p ========" tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="CUP AFRICA 2025",======== HD 720p ========
+http://prosan.tv:88/02017055776592/9009841324/1633229
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 HD SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 HD SA
+http://prosan.tv:88/02017055776592/9009841324/1633230
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 HD NX" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 HD NX
+http://prosan.tv:88/02017055776592/9009841324/1583789
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 HD MS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 HD MS
+http://prosan.tv:88/02017055776592/9009841324/1633231
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 HD LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 HD LO
+http://prosan.tv:88/02017055776592/9009841324/1633232
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 HD SS
+http://prosan.tv:88/02017055776592/9009841324/1633233
+#EXTINF:-1 tvg-ID="" tvg-name="======== SD 480p ============" tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="CUP AFRICA 2025",======== SD 480p ============
+http://prosan.tv:88/02017055776592/9009841324/1633234
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 SD SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 SD SA
+http://prosan.tv:88/02017055776592/9009841324/1633235
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 SD NX" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 SD NX
+http://prosan.tv:88/02017055776592/9009841324/1583790
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 SD MS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 SD MS
+http://prosan.tv:88/02017055776592/9009841324/1633236
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 SD LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 SD LO
+http://prosan.tv:88/02017055776592/9009841324/1633237
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 2 SD SS
+http://prosan.tv:88/02017055776592/9009841324/1583791
+#EXTINF:-1 tvg-ID="" tvg-name="======== 4K HEVC ======== " tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="CUP AFRICA 2025",======== 4K HEVC ======== 
+http://prosan.tv:88/02017055776592/9009841324/1633238
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 EN 4k SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 3 EN 4k SA
+http://prosan.tv:88/02017055776592/9009841324/1583792
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 EN 4K NX" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 3 EN 4K NX
+http://prosan.tv:88/02017055776592/9009841324/1583793
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 EN 4K MS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 3 EN 4K MS
+http://prosan.tv:88/02017055776592/9009841324/1633239
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 EN 4K LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 3 EN 4K LO
+http://prosan.tv:88/02017055776592/9009841324/1633240
+#EXTINF:-1 tvg-ID="" tvg-name="======== FHD 1080p ========" tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="CUP AFRICA 2025",======== FHD 1080p ========
+http://prosan.tv:88/02017055776592/9009841324/1633241
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 EN FHD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 3 EN FHD SS
+http://prosan.tv:88/02017055776592/9009841324/1633242
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 EN FHD LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 3 EN FHD LO
+http://prosan.tv:88/02017055776592/9009841324/1633243
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 EN FHD MS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 3 EN FHD MS
+http://prosan.tv:88/02017055776592/9009841324/1633244
+#EXTINF:-1 tvg-ID="" tvg-name="======== HD 720p ========" tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="CUP AFRICA 2025",======== HD 720p ========
+http://prosan.tv:88/02017055776592/9009841324/1633245
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 EN HD SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 3 EN HD SA
+http://prosan.tv:88/02017055776592/9009841324/1633246
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 EN HD NX" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 3 EN HD NX
+http://prosan.tv:88/02017055776592/9009841324/1583794
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 EN HD MS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 3 EN HD MS
+http://prosan.tv:88/02017055776592/9009841324/1633247
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 EN HD LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 3 EN HD LO
+http://prosan.tv:88/02017055776592/9009841324/1633248
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 EN HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 3 EN HD SS
+http://prosan.tv:88/02017055776592/9009841324/1633249
+#EXTINF:-1 tvg-ID="" tvg-name="======== SD 480p ========" tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="CUP AFRICA 2025",======== SD 480p ========
+http://prosan.tv:88/02017055776592/9009841324/1633250
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 EN SD SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 3 EN SD SA
+http://prosan.tv:88/02017055776592/9009841324/1633251
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 EN SD NX" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 3 EN SD NX
+http://prosan.tv:88/02017055776592/9009841324/1583795
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 EN SD MS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 3 EN SD MS
+http://prosan.tv:88/02017055776592/9009841324/1633252
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 EN SD LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 3 EN SD LO
+http://prosan.tv:88/02017055776592/9009841324/1633253
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 EN SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 3 EN SD SS
+http://prosan.tv:88/02017055776592/9009841324/1633254
+#EXTINF:-1 tvg-ID="" tvg-name="======== 4K HEVC ======== " tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="CUP AFRICA 2025",======== 4K HEVC ======== 
+http://prosan.tv:88/02017055776592/9009841324/1633255
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 4 FR 4k SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 4 FR 4k SA
+http://prosan.tv:88/02017055776592/9009841324/1583796
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 4 FR 4K LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 4 FR 4K LO
+http://prosan.tv:88/02017055776592/9009841324/1633256
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 4 FR 4K NX" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 4 FR 4K NX
+http://prosan.tv:88/02017055776592/9009841324/1583797
+#EXTINF:-1 tvg-ID="" tvg-name="======== FHD 1080p ========" tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="CUP AFRICA 2025",======== FHD 1080p ========
+http://prosan.tv:88/02017055776592/9009841324/1633257
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 4 FR FHD LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 4 FR FHD LO
+http://prosan.tv:88/02017055776592/9009841324/1633258
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 4 FR FHD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 4 FR FHD SS
+http://prosan.tv:88/02017055776592/9009841324/1633259
+#EXTINF:-1 tvg-ID="" tvg-name="======== HD 720p ========" tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="CUP AFRICA 2025",======== HD 720p ========
+http://prosan.tv:88/02017055776592/9009841324/1633260
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 4 FR HD SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 4 FR HD SA
+http://prosan.tv:88/02017055776592/9009841324/1633261
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 4 FR HD NX" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 4 FR HD NX
+http://prosan.tv:88/02017055776592/9009841324/1583798
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 4 FR HD LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 4 FR HD LO
+http://prosan.tv:88/02017055776592/9009841324/1633262
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 4 FR HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 4 FR HD SS
+http://prosan.tv:88/02017055776592/9009841324/1633263
+#EXTINF:-1 tvg-ID="" tvg-name="======== SD 480p ========" tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="CUP AFRICA 2025",======== SD 480p ========
+http://prosan.tv:88/02017055776592/9009841324/1633264
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 4 FR SD SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 4 FR SD SA
+http://prosan.tv:88/02017055776592/9009841324/1633265
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 4 FR SD NX" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 4 FR SD NX
+http://prosan.tv:88/02017055776592/9009841324/1583799
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 4 FR SD LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 4 FR SD LO
+http://prosan.tv:88/02017055776592/9009841324/1633266
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 4 FR SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="CUP AFRICA 2025",BEIN SPORTS MAX 4 FR SD SS
+http://prosan.tv:88/02017055776592/9009841324/1633267
+#EXTINF:-1 tvg-ID="" tvg-name="======== OTHER ========" tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="CUP AFRICA 2025",======== OTHER ========
+http://prosan.tv:88/02017055776592/9009841324/1633268
+#EXTINF:-1 tvg-ID="" tvg-name="|MA| TNT ARRYADIA FHD MA" tvg-logo="" group-title="CUP AFRICA 2025",|MA| TNT ARRYADIA FHD MA
+http://prosan.tv:88/02017055776592/9009841324/1633269
+#EXTINF:-1 tvg-ID="" tvg-name="|MA| TNT ARRYADIA HD MA" tvg-logo="" group-title="CUP AFRICA 2025",|MA| TNT ARRYADIA HD MA
+http://prosan.tv:88/02017055776592/9009841324/1633270
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| SPORT DIGITAL FUSSBALL HD DE" tvg-logo="" group-title="CUP AFRICA 2025",|DE| SPORT DIGITAL FUSSBALL HD DE
+http://prosan.tv:88/02017055776592/9009841324/1633271
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| SPORT ITALIA HD IT" tvg-logo="" group-title="CUP AFRICA 2025",|IT| SPORT ITALIA HD IT
+http://prosan.tv:88/02017055776592/9009841324/1633272
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SPORT TV 7 FHD PT" tvg-logo="" group-title="CUP AFRICA 2025",|PT| SPORT TV 7 FHD PT
+http://prosan.tv:88/02017055776592/9009841324/1633273
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| M+ LIGA DE CAMPEONES HD ES" tvg-logo="" group-title="CUP AFRICA 2025",|ES| M+ LIGA DE CAMPEONES HD ES
+http://prosan.tv:88/02017055776592/9009841324/1633274
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| M+ L.CAMPEONES 2 HD ES" tvg-logo="" group-title="CUP AFRICA 2025",|ES| M+ L.CAMPEONES 2 HD ES
+http://prosan.tv:88/02017055776592/9009841324/1633275
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| M+ L.CAMPEONES 3 HD ES" tvg-logo="" group-title="CUP AFRICA 2025",|ES| M+ L.CAMPEONES 3 HD ES
+http://prosan.tv:88/02017055776592/9009841324/1633276
+#EXTINF:-1 tvg-ID="" tvg-name="===== CAF AFRICA 2025 =====" tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="BEIN SPORTS SD",===== CAF AFRICA 2025 =====
+http://prosan.tv:88/02017055776592/9009841324/1633277
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 1 SD " tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS MAX 1 SD 
+http://prosan.tv:88/02017055776592/9009841324/1633278
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 2 SD " tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS MAX 2 SD 
+http://prosan.tv:88/02017055776592/9009841324/1633279
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 3 EN SD " tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS MAX 3 EN SD 
+http://prosan.tv:88/02017055776592/9009841324/1633280
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 4 FR SD " tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS MAX 4 FR SD 
+http://prosan.tv:88/02017055776592/9009841324/1633281
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 1 SD SS
+http://prosan.tv:88/02017055776592/9009841324/693821
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 2 SD SS
+http://prosan.tv:88/02017055776592/9009841324/693822
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 3 SD SS
+http://prosan.tv:88/02017055776592/9009841324/693823
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 4 SD SS
+http://prosan.tv:88/02017055776592/9009841324/693824
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_5.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 5 SD SS
+http://prosan.tv:88/02017055776592/9009841324/693825
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_6.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 6 SD SS
+http://prosan.tv:88/02017055776592/9009841324/693826
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_7.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 7 SD SS
+http://prosan.tv:88/02017055776592/9009841324/693827
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_8.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 8 SD SS
+http://prosan.tv:88/02017055776592/9009841324/693828
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 SD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_9.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 9 SD SS
+http://prosan.tv:88/02017055776592/9009841324/693829
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 LQ" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 1 LQ
+http://prosan.tv:88/02017055776592/9009841324/693830
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 LQ" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 2 LQ
+http://prosan.tv:88/02017055776592/9009841324/693831
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 LQ" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 3 LQ
+http://prosan.tv:88/02017055776592/9009841324/693832
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 LQ" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 4 LQ
+http://prosan.tv:88/02017055776592/9009841324/693833
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 LQ" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_5.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 5 LQ
+http://prosan.tv:88/02017055776592/9009841324/693834
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 LQ" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_6.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 6 LQ
+http://prosan.tv:88/02017055776592/9009841324/693835
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 LQ" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_7.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 7 LQ
+http://prosan.tv:88/02017055776592/9009841324/693836
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 LQ" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_8.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 8 LQ
+http://prosan.tv:88/02017055776592/9009841324/693837
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 LQ" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_9.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 9 LQ
+http://prosan.tv:88/02017055776592/9009841324/693838
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 LQ SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 1 LQ SS
+http://prosan.tv:88/02017055776592/9009841324/693839
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 LQ SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 2 LQ SS
+http://prosan.tv:88/02017055776592/9009841324/693840
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 LQ SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 3 LQ SS
+http://prosan.tv:88/02017055776592/9009841324/693841
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 LQ SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 4 LQ SS
+http://prosan.tv:88/02017055776592/9009841324/693842
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 LQ SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_5.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 5 LQ SS
+http://prosan.tv:88/02017055776592/9009841324/693843
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 LQ SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_6.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 6 LQ SS
+http://prosan.tv:88/02017055776592/9009841324/693844
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 LQ SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_7.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 7 LQ SS
+http://prosan.tv:88/02017055776592/9009841324/693845
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 LQ SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_8.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 8 LQ SS
+http://prosan.tv:88/02017055776592/9009841324/693846
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 LQ SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_9.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 9 LQ SS
+http://prosan.tv:88/02017055776592/9009841324/693847
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 SD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 1 SD LIVE
+http://prosan.tv:88/02017055776592/9009841324/693848
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 SD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 2 SD LIVE
+http://prosan.tv:88/02017055776592/9009841324/693849
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 SD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 3 SD LIVE
+http://prosan.tv:88/02017055776592/9009841324/693850
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 SD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 4 SD LIVE
+http://prosan.tv:88/02017055776592/9009841324/693851
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 SD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_5.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 5 SD LIVE
+http://prosan.tv:88/02017055776592/9009841324/693852
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 SD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_6.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 6 SD LIVE
+http://prosan.tv:88/02017055776592/9009841324/693853
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 SD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_7.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 7 SD LIVE
+http://prosan.tv:88/02017055776592/9009841324/693854
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 SD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_8.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 8 SD LIVE
+http://prosan.tv:88/02017055776592/9009841324/693855
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 SD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_9.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS 9 SD LIVE
+http://prosan.tv:88/02017055776592/9009841324/693856
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="|AR| BEIN SPORTS EN 1 SD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS EN 1 SD LIVE
+http://prosan.tv:88/02017055776592/9009841324/693857
+#EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="|AR| BEIN SPORTS EN 2 SD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS EN 2 SD LIVE
+http://prosan.tv:88/02017055776592/9009841324/693858
+#EXTINF:-1 tvg-ID="beinsports1fr.qa" tvg-name="|AR| BEIN SPORTS FR 1 SD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS FR 1 SD LIVE
+http://prosan.tv:88/02017055776592/9009841324/693859
+#EXTINF:-1 tvg-ID="beinsports2fr.qa" tvg-name="|AR| BEIN SPORTS FR 2 SD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2.png" group-title="BEIN SPORTS SD",|AR| BEIN SPORTS FR 2 SD LIVE
+http://prosan.tv:88/02017055776592/9009841324/693860
+#EXTINF:-1 tvg-ID="" tvg-name="===== CAF AFRICA 2025 ====" tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="BEIN SPORTS LIVE",===== CAF AFRICA 2025 ====
+http://prosan.tv:88/02017055776592/9009841324/1625619
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 1 4K LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS MAX 1 4K LIVE
+http://prosan.tv:88/02017055776592/9009841324/1585668
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 1 HD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS MAX 1 HD LIVE
+http://prosan.tv:88/02017055776592/9009841324/1585669
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 1 SD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS MAX 1 SD LIVE
+http://prosan.tv:88/02017055776592/9009841324/1585670
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 2 4K LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS MAX 2 4K LIVE
+http://prosan.tv:88/02017055776592/9009841324/1585671
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 2 HD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS MAX 2 HD LIVE
+http://prosan.tv:88/02017055776592/9009841324/1585672
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 2 SD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS MAX 2 SD LIVE
+http://prosan.tv:88/02017055776592/9009841324/1585673
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 3 EN 4K LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS MAX 3 EN 4K LIVE
+http://prosan.tv:88/02017055776592/9009841324/1585674
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 3 EN HD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS MAX 3 EN HD LIVE
+http://prosan.tv:88/02017055776592/9009841324/1585675
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 3 EN SD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS MAX 3 EN SD LIVE
+http://prosan.tv:88/02017055776592/9009841324/1585676
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 4 FR 4K LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS MAX 4 FR 4K LIVE
+http://prosan.tv:88/02017055776592/9009841324/1585677
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 4 FR HD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS MAX 4 FR HD LIVE
+http://prosan.tv:88/02017055776592/9009841324/1585678
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 4 FR SD LIVE" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS MAX 4 FR SD LIVE
+http://prosan.tv:88/02017055776592/9009841324/1585679
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| beIN 4k SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4K.png" group-title="BEIN SPORTS LIVE",|AR| beIN 4k SS
+http://prosan.tv:88/02017055776592/9009841324/661029
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 1 HD SS
+http://prosan.tv:88/02017055776592/9009841324/661030
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 2 HD SS
+http://prosan.tv:88/02017055776592/9009841324/661031
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 3 HD SS
+http://prosan.tv:88/02017055776592/9009841324/661032
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 4 HD SS
+http://prosan.tv:88/02017055776592/9009841324/661033
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_5.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 5 HD SS
+http://prosan.tv:88/02017055776592/9009841324/661034
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_6.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 6 HD SS
+http://prosan.tv:88/02017055776592/9009841324/661035
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_7.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 7 HD SS
+http://prosan.tv:88/02017055776592/9009841324/661036
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_8.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 8 HD SS
+http://prosan.tv:88/02017055776592/9009841324/661037
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 HD SS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_9.png" group-title="BEIN SPORTS LIVE",|AR| BEIN SPORTS 9 HD SS
+http://prosan.tv:88/02017055776592/9009841324/661038
+#EXTINF:-1 tvg-ID="" tvg-name="===== CAF AFRICA 2025 ====" tvg-logo="http://vodkom.com:25461/Logo/SanSat/cafafrica.png" group-title="BEIN SPORTS 4K",===== CAF AFRICA 2025 ====
+http://prosan.tv:88/02017055776592/9009841324/1625620
+#EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="|AR| BEIN MAX 1 4K NX" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 1 4K NX
+http://prosan.tv:88/02017055776592/9009841324/1585684
+#EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="|AR| BEIN MAX 1 4k SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 1 4k SA
+http://prosan.tv:88/02017055776592/9009841324/1585685
+#EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="|AR| BEIN MAX 1 4K LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 1 4K LO
+http://prosan.tv:88/02017055776592/9009841324/1585686
+#EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="|AR| BEIN MAX 1 S3" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 1 S3
+http://prosan.tv:88/02017055776592/9009841324/1585687
+#EXTINF:-1 tvg-ID="beinsportsmax2.qa" tvg-name="|AR| BEIN MAX 2 4K NX" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 2 4K NX
+http://prosan.tv:88/02017055776592/9009841324/1585688
+#EXTINF:-1 tvg-ID="beinsportsmax2.qa" tvg-name="|AR| BEIN MAX 2 4k SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 2 4k SA
+http://prosan.tv:88/02017055776592/9009841324/1585689
+#EXTINF:-1 tvg-ID="beinsportsmax2.qa" tvg-name="|AR| BEIN MAX 2 4K MS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 2 4K MS
+http://prosan.tv:88/02017055776592/9009841324/1585690
+#EXTINF:-1 tvg-ID="beinsportsmax2.qa" tvg-name="|AR| BEIN MAX 2 4K LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 2 4K LO
+http://prosan.tv:88/02017055776592/9009841324/1585691
+#EXTINF:-1 tvg-ID="beinsportsmax2.qa" tvg-name="|AR| BEIN MAX 2 S3" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 2 S3
+http://prosan.tv:88/02017055776592/9009841324/1585692
+#EXTINF:-1 tvg-ID="beinsportsmax3.qa" tvg-name="|AR| BEIN MAX 3 EN 4k SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 3 EN 4k SA
+http://prosan.tv:88/02017055776592/9009841324/1585693
+#EXTINF:-1 tvg-ID="beinsportsmax3.qa" tvg-name="|AR| BEIN MAX 3 EN 4K NX" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 3 EN 4K NX
+http://prosan.tv:88/02017055776592/9009841324/1585694
+#EXTINF:-1 tvg-ID="beinsportsmax3.qa" tvg-name="|AR| BEIN MAX 3 EN 4K MS" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 3 EN 4K MS
+http://prosan.tv:88/02017055776592/9009841324/1585695
+#EXTINF:-1 tvg-ID="beinsportsmax3.qa" tvg-name="|AR| BEIN MAX 3 EN 4K LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 3 EN 4K LO
+http://prosan.tv:88/02017055776592/9009841324/1585696
+#EXTINF:-1 tvg-ID="beinsportsmax4.qa" tvg-name="|AR| BEIN MAX 4 FR 4K NX" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 4 FR 4K NX
+http://prosan.tv:88/02017055776592/9009841324/1585697
+#EXTINF:-1 tvg-ID="beinsportsmax4.qa" tvg-name="|AR| BEIN MAX 4 FR 4k SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 4 FR 4k SA
+http://prosan.tv:88/02017055776592/9009841324/1585698
+#EXTINF:-1 tvg-ID="beinsportsmax4.qa" tvg-name="|AR| BEIN MAX 4 FR 4K LO" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 4 FR 4K LO
+http://prosan.tv:88/02017055776592/9009841324/1585699
+#EXTINF:-1 tvg-ID="beinsportsnews.qa" tvg-name="|AR| BEIN SPORTS NEWS 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_NEWS.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS NEWS 4K
+http://prosan.tv:88/02017055776592/9009841324/881471
+#EXTINF:-1 tvg-ID="beinsportsglobal.qa" tvg-name="|AR| BEIN GLOBAL 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS.png" group-title="BEIN SPORTS 4K",|AR| BEIN GLOBAL 4K
+http://prosan.tv:88/02017055776592/9009841324/881470
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 1 4K
+http://prosan.tv:88/02017055776592/9009841324/6814
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 1 SA
+http://prosan.tv:88/02017055776592/9009841324/402504
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="|AR| BEIN SPORTS 1 4K S3" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 1 4K S3
+http://prosan.tv:88/02017055776592/9009841324/1583958
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 2 4K
+http://prosan.tv:88/02017055776592/9009841324/6823
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 2 SA
+http://prosan.tv:88/02017055776592/9009841324/402505
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="|AR| BEIN SPORTS 2 4K S3" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_2.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 2 4K S3
+http://prosan.tv:88/02017055776592/9009841324/1583959
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 3 4K
+http://prosan.tv:88/02017055776592/9009841324/6815
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 3 SA
+http://prosan.tv:88/02017055776592/9009841324/402506
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="|AR| BEIN SPORTS 3 4K S3" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_3.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 3 4K S3
+http://prosan.tv:88/02017055776592/9009841324/1583960
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 4 4K
+http://prosan.tv:88/02017055776592/9009841324/6818
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 4 SA
+http://prosan.tv:88/02017055776592/9009841324/402507
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="|AR| BEIN SPORTS 4 4K S3" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 4 4K S3
+http://prosan.tv:88/02017055776592/9009841324/1583961
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_5.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 5 4K
+http://prosan.tv:88/02017055776592/9009841324/6817
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_5.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 5 SA
+http://prosan.tv:88/02017055776592/9009841324/402508
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="|AR| BEIN SPORTS 5 4K S3" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_5.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 5 4K S3
+http://prosan.tv:88/02017055776592/9009841324/1583962
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_6.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 6 4K
+http://prosan.tv:88/02017055776592/9009841324/6819
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_6.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 6 SA
+http://prosan.tv:88/02017055776592/9009841324/402509
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="|AR| BEIN SPORTS 6 4K S3" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_6.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 6 4K S3
+http://prosan.tv:88/02017055776592/9009841324/1583963
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_7.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 7 4K
+http://prosan.tv:88/02017055776592/9009841324/6820
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_7.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 7 SA
+http://prosan.tv:88/02017055776592/9009841324/402510
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="|AR| BEIN SPORTS 7 4K S3" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_7.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 7 4K S3
+http://prosan.tv:88/02017055776592/9009841324/1583964
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_8.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 8 4K
+http://prosan.tv:88/02017055776592/9009841324/6821
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_8.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 8 SA
+http://prosan.tv:88/02017055776592/9009841324/402511
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="|AR| BEIN SPORTS 8 4K S3" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_8.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 8 4K S3
+http://prosan.tv:88/02017055776592/9009841324/1583965
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_9.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 9 4K
+http://prosan.tv:88/02017055776592/9009841324/6822
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 SA" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_9.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 9 SA
+http://prosan.tv:88/02017055776592/9009841324/402512
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="|AR| BEIN SPORTS 9 4K S3" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_9.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 9 4K S3
+http://prosan.tv:88/02017055776592/9009841324/1583966
+#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="|AR| BEIN EXTRA 1 4K" tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_XTRA_1.png" group-title="BEIN SPORTS 4K",|AR| BEIN EXTRA 1 4K
+http://prosan.tv:88/02017055776592/9009841324/719771
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="|AR| BEIN SPORTS 1 ENGLISH 4k " tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 1 ENGLISH 4k 
+http://prosan.tv:88/02017055776592/9009841324/63495
+#EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="|AR| BEIN SPORTS EN 2 4K" tvg-logo="http://vodkom.com:25461/Logo/BEIN1/eng-2-fhd.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS EN 2 4K
+http://prosan.tv:88/02017055776592/9009841324/881472
+#EXTINF:-1 tvg-ID="beinsports1fr.qa" tvg-name="|AR| BEIN SPORTS 1 FRENCH 4K " tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS 1 FRENCH 4K 
+http://prosan.tv:88/02017055776592/9009841324/105256
+#EXTINF:-1 tvg-ID="beinsports2fr.qa" tvg-name="|AR| BEIN SPORTS FR 2 4K" tvg-logo="http://vodkom.com:25461/Logo/BEIN1/Fr-2-FHD.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS FR 2 4K
+http://prosan.tv:88/02017055776592/9009841324/881473
+#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="|AR| BEIN SPORTS XTRA 1 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_XTRA_1.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS XTRA 1 4K
+http://prosan.tv:88/02017055776592/9009841324/117761
+#EXTINF:-1 tvg-ID="beinsportsxtra2ar.qa" tvg-name="|AR| BEIN SPORTS XTRA 2 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_XTRA_2.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS XTRA 2 4K
+http://prosan.tv:88/02017055776592/9009841324/117762
+#EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="|AR| BEIN SPORTS XTRA 3 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_XTRA_3.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS XTRA 3 4K
+http://prosan.tv:88/02017055776592/9009841324/14710
+#EXTINF:-1 tvg-ID="beINSportsAFC2.qa" tvg-name="|AR| BEIN SPORTS AFC 2 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_AFC_2.png" group-title="BEIN SPORTS AFC",|AR| BEIN SPORTS AFC 2 4K
+http://prosan.tv:88/02017055776592/9009841324/177007
+#EXTINF:-1 tvg-ID="beinsportsafc3.qa" tvg-name="|AR| BEIN SPORTS AFC 3 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_AFC_3.png" group-title="BEIN SPORTS AFC",|AR| BEIN SPORTS AFC 3 4K
+http://prosan.tv:88/02017055776592/9009841324/435951
+#EXTINF:-1 tvg-ID="beinsportsafc3.qa" tvg-name="|AR| BEIN SPORTS AFC 4 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_AFC_4.png" group-title="BEIN SPORTS AFC",|AR| BEIN SPORTS AFC 4 4K
+http://prosan.tv:88/02017055776592/9009841324/435952
+#EXTINF:-1 tvg-ID="beinsportsafc5.qa" tvg-name="|AR| BEIN SPORTS AFC 5 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_AFC_5.png" group-title="BEIN SPORTS AFC",|AR| BEIN SPORTS AFC 5 4K
+http://prosan.tv:88/02017055776592/9009841324/435953
+#EXTINF:-1 tvg-ID="beINSportsAFC.qa" tvg-name="|AR| BEIN SPORTS AFC HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_AFC.png" group-title="BEIN SPORTS AFC",|AR| BEIN SPORTS AFC HD
+http://prosan.tv:88/02017055776592/9009841324/435954
+#EXTINF:-1 tvg-ID="beinsportsnba.qa" tvg-name="|AR| BEIN SPORTS NBA 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_NBA.png" group-title="BEIN SPORTS 4K",|AR| BEIN SPORTS NBA 4K
+http://prosan.tv:88/02017055776592/9009841324/336789
+#EXTINF:-1 tvg-ID="Gourmet.qa" tvg-name="BEIN GORMENT" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_GURME_HD.png" group-title="BEIN ENTERTAINMENT",BEIN GORMENT
+http://prosan.tv:88/02017055776592/9009841324/375945
+#EXTINF:-1 tvg-ID="Baraem.qa" tvg-name="BEIN BARAEAM 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/BARAIM.png" group-title="BEIN ENTERTAINMENT",BEIN BARAEAM 4K
+http://prosan.tv:88/02017055776592/9009841324/375947
+#EXTINF:-1 tvg-ID="JeemTV.qa" tvg-name="BEIN JEEM 4K" tvg-logo="http://vodkom.com:25461/MYBEIN/JEEM.png" group-title="BEIN ENTERTAINMENT",BEIN JEEM 4K
+http://prosan.tv:88/02017055776592/9009841324/375948
+#EXTINF:-1 tvg-ID="beINMovies1.qa" tvg-name="BEIN MOVIES 1 HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_MOVIES_HD_1.png" group-title="BEIN ENTERTAINMENT",BEIN MOVIES 1 HD
+http://prosan.tv:88/02017055776592/9009841324/59077
+#EXTINF:-1 tvg-ID="beINMovies2.qa" tvg-name="BEIN MOVIES 2 HD" tvg-logo="http://vodkom.com:25461/MYBEIN/c" group-title="BEIN ENTERTAINMENT",BEIN MOVIES 2 HD
+http://prosan.tv:88/02017055776592/9009841324/59078
+#EXTINF:-1 tvg-ID="beINMovies3.qa" tvg-name="BEIN MOVIES 3 HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_MOVIES_HD_3.png" group-title="BEIN ENTERTAINMENT",BEIN MOVIES 3 HD
+http://prosan.tv:88/02017055776592/9009841324/59079
+#EXTINF:-1 tvg-ID="beINMovies4.qa" tvg-name="BEIN MOVIES 4 HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_MOVIES_HD_4.png" group-title="BEIN ENTERTAINMENT",BEIN MOVIES 4 HD
+http://prosan.tv:88/02017055776592/9009841324/59080
+#EXTINF:-1 tvg-ID="beINSeries1.qa" tvg-name="BEIN SERIES 1 HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SERIES.png" group-title="BEIN ENTERTAINMENT",BEIN SERIES 1 HD
+http://prosan.tv:88/02017055776592/9009841324/59082
+#EXTINF:-1 tvg-ID="beINSeries2.qa" tvg-name="BEIN SERIES 2 HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SERIES_HD_3.png" group-title="BEIN ENTERTAINMENT",BEIN SERIES 2 HD
+http://prosan.tv:88/02017055776592/9009841324/59083
+#EXTINF:-1 tvg-ID="Drama.qa" tvg-name="BEIN DRAMA HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_DRAMA_HD_1.png" group-title="BEIN ENTERTAINMENT",BEIN DRAMA HD
+http://prosan.tv:88/02017055776592/9009841324/59084
+#EXTINF:-1 tvg-ID="foxmoviesactionar.qa" tvg-name="BEIN FOX MOVIES ACTION HD" tvg-logo="http://vodkom.com:25461/MYBEIN/FOX_ACTION_MOVIES.png" group-title="BEIN ENTERTAINMENT",BEIN FOX MOVIES ACTION HD
+http://prosan.tv:88/02017055776592/9009841324/59086
+#EXTINF:-1 tvg-ID="JeemTV.qa" tvg-name="BEIN JEEM HD" tvg-logo="http://vodkom.com:25461/MYBEIN/JEEM.png" group-title="BEIN ENTERTAINMENT",BEIN JEEM HD
+http://prosan.tv:88/02017055776592/9009841324/59100
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN BOOMERANG HD" tvg-logo="http://vodkom.com:25461/MYBEIN/boomeranghd.png" group-title="BEIN ENTERTAINMENT",BEIN BOOMERANG HD
+http://prosan.tv:88/02017055776592/9009841324/59088
+#EXTINF:-1 tvg-ID="Gourmet.qa" tvg-name="BEIN GOURMET HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_GURME_HD.png" group-title="BEIN ENTERTAINMENT",BEIN GOURMET HD
+http://prosan.tv:88/02017055776592/9009841324/59089
+#EXTINF:-1 tvg-ID="Baraem.qa" tvg-name="BEIN BARAEM HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BARAIM.png" group-title="BEIN ENTERTAINMENT",BEIN BARAEM HD
+http://prosan.tv:88/02017055776592/9009841324/59090
+#EXTINF:-1 tvg-ID="Fatafeat.qa" tvg-name="BEIN FATAFEAT" tvg-logo="http://vodkom.com:25461/MYBEIN/FATAFEAT.png" group-title="BEIN ENTERTAINMENT",BEIN FATAFEAT
+http://prosan.tv:88/02017055776592/9009841324/59093
+#EXTINF:-1 tvg-ID="NatGeo.qa" tvg-name="BEIN NAT GEO" tvg-logo="http://vodkom.com:25461/MYBEIN/NAT_geo.png" group-title="BEIN ENTERTAINMENT",BEIN NAT GEO
+http://prosan.tv:88/02017055776592/9009841324/59097
+#EXTINF:-1 tvg-ID="NatGeoWild.qa" tvg-name="BEIN NAT GEO WILD" tvg-logo="http://vodkom.com:25461/MYBEIN/Nat_Geo_WILD.png" group-title="BEIN ENTERTAINMENT",BEIN NAT GEO WILD
+http://prosan.tv:88/02017055776592/9009841324/59099
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN BOX OFFICE 1 HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_BOX_OFFICE_1_HD.png" group-title="BEIN ENTERTAINMENT",|AR| BEIN BOX OFFICE 1 HD
+http://prosan.tv:88/02017055776592/9009841324/672399
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN BOX OFFICE 2 HD" tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_BOX_OFFICE_2_HD.png" group-title="BEIN ENTERTAINMENT",|AR| BEIN BOX OFFICE 2 HD
+http://prosan.tv:88/02017055776592/9009841324/672400
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN BOX OFFICE 3 HD" tvg-logo="http://vodkom.com:25461/MYBEIN/" group-title="BEIN ENTERTAINMENT",|AR| BEIN BOX OFFICE 3 HD
+http://prosan.tv:88/02017055776592/9009841324/672401
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 1 HD" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 1 HD
+http://prosan.tv:88/02017055776592/9009841324/864501
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 2 HD" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 2 HD
+http://prosan.tv:88/02017055776592/9009841324/864502
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 1 RAW" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 1 RAW
+http://prosan.tv:88/02017055776592/9009841324/1079543
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 2 RAW" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 2 RAW
+http://prosan.tv:88/02017055776592/9009841324/1079544
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 3 RAW" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 3 RAW
+http://prosan.tv:88/02017055776592/9009841324/1079545
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 1 4K" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 1 4K
+http://prosan.tv:88/02017055776592/9009841324/1079546
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 2 4K" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 2 4K
+http://prosan.tv:88/02017055776592/9009841324/1079547
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 3 4K" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 3 4K
+http://prosan.tv:88/02017055776592/9009841324/1079548
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 1 HD" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 1 HD
+http://prosan.tv:88/02017055776592/9009841324/1079549
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 2 HD" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 2 HD
+http://prosan.tv:88/02017055776592/9009841324/1079550
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 3 HD" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 3 HD
+http://prosan.tv:88/02017055776592/9009841324/1079551
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 1 4K 50FPS" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 1 4K 50FPS
+http://prosan.tv:88/02017055776592/9009841324/1079552
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 1 HD 50FPS" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 1 HD 50FPS
+http://prosan.tv:88/02017055776592/9009841324/1079553
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 1 SD 50FPS" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 1 SD 50FPS
+http://prosan.tv:88/02017055776592/9009841324/1079554
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 2 4K 50FPS" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 2 4K 50FPS
+http://prosan.tv:88/02017055776592/9009841324/1079555
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 2 HD 50FPS" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 2 HD 50FPS
+http://prosan.tv:88/02017055776592/9009841324/1079556
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 2 SD 50FPS" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 2 SD 50FPS
+http://prosan.tv:88/02017055776592/9009841324/1079557
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 3 4K 50FPS" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 3 4K 50FPS
+http://prosan.tv:88/02017055776592/9009841324/1079558
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 3 HD 50FPS" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 3 HD 50FPS
+http://prosan.tv:88/02017055776592/9009841324/1079559
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 3 SD 50FPS" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 3 SD 50FPS
+http://prosan.tv:88/02017055776592/9009841324/1079560
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 4 4K 50FPS" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 4 4K 50FPS
+http://prosan.tv:88/02017055776592/9009841324/1079561
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 4 HD 50FPS" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 4 HD 50FPS
+http://prosan.tv:88/02017055776592/9009841324/1079562
+#EXTINF:-1 tvg-ID="" tvg-name="THMANYAH 4 SD 50FPS" tvg-logo="https://i.postimg.cc/gJ6JXkRW/Thmanyah.png" group-title="THMANAYH SPORTS",THMANYAH 4 SD 50FPS
+http://prosan.tv:88/02017055776592/9009841324/1079563
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT PREMIUM 1 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/adsportspremium1.png" group-title="AD SPORTS | STRZPLAY",AD SPORT PREMIUM 1 HD
+http://prosan.tv:88/02017055776592/9009841324/548165
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT PREMIUM 2 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/adsportspremium2.png" group-title="AD SPORTS | STRZPLAY",AD SPORT PREMIUM 2 HD
+http://prosan.tv:88/02017055776592/9009841324/548166
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT ASIA 1 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/adsportspremium1.png" group-title="AD SPORTS | STRZPLAY",AD SPORT ASIA 1 HD
+http://prosan.tv:88/02017055776592/9009841324/548167
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT ASIA 2 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/adsportspremium2.png" group-title="AD SPORTS | STRZPLAY",AD SPORT ASIA 2 HD
+http://prosan.tv:88/02017055776592/9009841324/548168
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT PREMIUM 1 4K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/adsportspremium1.png" group-title="AD SPORTS | STRZPLAY",AD SPORT PREMIUM 1 4K
+http://prosan.tv:88/02017055776592/9009841324/548169
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT PREMIUM 2 4K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/adsportspremium2.png" group-title="AD SPORTS | STRZPLAY",AD SPORT PREMIUM 2 4K
+http://prosan.tv:88/02017055776592/9009841324/548170
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT PREMIUM 1 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/adsportspremium1.png" group-title="AD SPORTS | STRZPLAY",AD SPORT PREMIUM 1 SD
+http://prosan.tv:88/02017055776592/9009841324/548173
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT PREMIUM 2 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/adsportspremium2.png" group-title="AD SPORTS | STRZPLAY",AD SPORT PREMIUM 2 SD
+http://prosan.tv:88/02017055776592/9009841324/548174
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT ASIA 1 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/adsportspremium1.png" group-title="AD SPORTS | STRZPLAY",AD SPORT ASIA 1 SD
+http://prosan.tv:88/02017055776592/9009841324/548175
+#EXTINF:-1 tvg-ID="" tvg-name="AD SPORT ASIA 2 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/adsportspremium2.png" group-title="AD SPORTS | STRZPLAY",AD SPORT ASIA 2 SD
+http://prosan.tv:88/02017055776592/9009841324/548176
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| STARZ PLAY SPORT 1 HD" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| STARZ PLAY SPORT 1 HD
+http://prosan.tv:88/02017055776592/9009841324/661453
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| STARZ PLAY SPORT 2 HD" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| STARZ PLAY SPORT 2 HD
+http://prosan.tv:88/02017055776592/9009841324/661454
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| STARZ PLAY SPORT 3 HD" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| STARZ PLAY SPORT 3 HD
+http://prosan.tv:88/02017055776592/9009841324/661455
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| STARZPLAY CRICLIFE 1 HD" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| STARZPLAY CRICLIFE 1 HD
+http://prosan.tv:88/02017055776592/9009841324/661456
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| STARZPLAY CRICLIFE 2 HD" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| STARZPLAY CRICLIFE 2 HD
+http://prosan.tv:88/02017055776592/9009841324/661457
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD Sport Premium 1 4K" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| AD Sport Premium 1 4K
+http://prosan.tv:88/02017055776592/9009841324/661458
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD Sport Premium 1 HD" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| AD Sport Premium 1 HD
+http://prosan.tv:88/02017055776592/9009841324/661459
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD Sport Premium 1 SD" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| AD Sport Premium 1 SD
+http://prosan.tv:88/02017055776592/9009841324/661460
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD Sport Premium 2 4K" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| AD Sport Premium 2 4K
+http://prosan.tv:88/02017055776592/9009841324/661461
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD Sport Premium 2 HD" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| AD Sport Premium 2 HD
+http://prosan.tv:88/02017055776592/9009841324/661462
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD Sport Premium 2 SD" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| AD Sport Premium 2 SD
+http://prosan.tv:88/02017055776592/9009841324/661463
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD SPORTS PREMIUM 1 HD*" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| AD SPORTS PREMIUM 1 HD*
+http://prosan.tv:88/02017055776592/9009841324/661464
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD SPORTS PREMIUM 1 HEVC" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| AD SPORTS PREMIUM 1 HEVC
+http://prosan.tv:88/02017055776592/9009841324/661465
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD SPORTS PREMIUM 2 HD*" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| AD SPORTS PREMIUM 2 HD*
+http://prosan.tv:88/02017055776592/9009841324/661466
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD SPORTS PREMIUM 2 HEVC" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| AD SPORTS PREMIUM 2 HEVC
+http://prosan.tv:88/02017055776592/9009841324/661467
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD SPORTS ASIA 1" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| AD SPORTS ASIA 1
+http://prosan.tv:88/02017055776592/9009841324/661468
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD SPORTS ASIA 1 SD" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| AD SPORTS ASIA 1 SD
+http://prosan.tv:88/02017055776592/9009841324/661469
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD SPORTS ASIA 2" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| AD SPORTS ASIA 2
+http://prosan.tv:88/02017055776592/9009841324/661470
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| AD SPORTS ASIA 2 SD" tvg-logo="" group-title="AD SPORTS | STRZPLAY",|AR| AD SPORTS ASIA 2 SD
+http://prosan.tv:88/02017055776592/9009841324/661471
+
 #EXTINF:-1,beIN-MOVIES-1-PREMIER-FHD
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/223.m3u8
 #EXTINF:-1,beIN-MOVIES-1-PREMIER-HD
@@ -453,33 +1321,3 @@ http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/290.m3u8
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/291.m3u8
 #EXTINF:-1,BEIN SPORTS 7FHD
 http://31.220.78.193:25461/live/gtQaXQ5tQL/Xd3z9zhh3x/292.m3u8
-#EXTINF:-1,منزل جديد S01 E01
-http://31.220.78.193:25461/series/gtQaXQ5tQL/Xd3z9zhh3x/237.mp4
-#EXTINF:-1,منزل جديد S01 E02
-http://31.220.78.193:25461/series/gtQaXQ5tQL/Xd3z9zhh3x/238.mp4
-#EXTINF:-1,منزل جديد S01 E03
-http://31.220.78.193:25461/series/gtQaXQ5tQL/Xd3z9zhh3x/239.mp4
-#EXTINF:-1,منزل جديد S01 E04
-http://31.220.78.193:25461/series/gtQaXQ5tQL/Xd3z9zhh3x/240.mp4
-#EXTINF:-1,منزل جديد S01 E05
-http://31.220.78.193:25461/series/gtQaXQ5tQL/Xd3z9zhh3x/241.mp4
-#EXTINF:-1,منزل جديد S01 E06
-http://31.220.78.193:25461/series/gtQaXQ5tQL/Xd3z9zhh3x/242.mp4
-#EXTINF:-1,منزل جديد S01 E07
-http://31.220.78.193:25461/series/gtQaXQ5tQL/Xd3z9zhh3x/243.mp4
-#EXTINF:-1,منزل جديد S01 E08
-http://31.220.78.193:25461/series/gtQaXQ5tQL/Xd3z9zhh3x/244.mp4
-#EXTINF:-1,منزل جديد S01 E09
-http://31.220.78.193:25461/series/gtQaXQ5tQL/Xd3z9zhh3x/245.mp4
-#EXTINF:-1,منزل جديد S01 E10
-http://31.220.78.193:25461/series/gtQaXQ5tQL/Xd3z9zhh3x/246.mp4
-#EXTINF:-1,منزل جديد S01 E11
-http://31.220.78.193:25461/series/gtQaXQ5tQL/Xd3z9zhh3x/247.mp4
-#EXTINF:-1,منزل جديد S01 E12
-http://31.220.78.193:25461/series/gtQaXQ5tQL/Xd3z9zhh3x/248.mp4
-#EXTINF:-1,منزل جديد S01 E13
-http://31.220.78.193:25461/series/gtQaXQ5tQL/Xd3z9zhh3x/249.mp4
-#EXTINF:-1,منزل جديد S01 E14
-http://31.220.78.193:25461/series/gtQaXQ5tQL/Xd3z9zhh3x/250.mp4
-#EXTINF:-1,منزل جديد S01 E15
-http://31.220.78.193:25461/series/gtQaXQ5tQL/Xd3z9zhh3x/251.mp4
