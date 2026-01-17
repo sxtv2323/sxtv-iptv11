@@ -1,89 +1,137 @@
-#EXTM3U
 
-// --- جودة FHD HEVC ---
-#EXTINF:-1 tvg-id="beIN Sports 8 FDH" tvg-name="beIN Sports Premium 1 FHD HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="VIP Sports",beIN Sports Premium 1 FHD HEVC
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18783
-#EXTINF:-1 tvg-id="beIN Sports 9 FDH" tvg-name="beIN Sports Premium 2 FHD HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png" group-title="VIP Sports",beIN Sports Premium 2 FHD HEVC
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18781
-#EXTINF:-1 tvg-id="beIN Sports 10 FDH" tvg-name="beIN Sports Premium 3 FHD HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="VIP Sports",beIN Sports Premium 3 FHD HEVC
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18780
-#EXTINF:-1 tvg-id="beIN Sports 1 FDH" tvg-name="beIN Sports 1 FHD HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="VIP Sports",beIN Sports 1 FHD HEVC
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18801
-#EXTINF:-1 tvg-id="beIN Sports 2 FDH" tvg-name="beIN Sports 2 FHD HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="VIP Sports",beIN Sports 2 FHD HEVC
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18800
-#EXTINF:-1 tvg-id="beIN Sports 3 FDH" tvg-name="beIN Sports 3 FHD HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="VIP Sports",beIN Sports 3 FHD HEVC
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18796
-#EXTINF:-1 tvg-id="beIN Sports 4 FDH" tvg-name="beIN Sports 4 FHD HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="VIP Sports",beIN Sports 4 FHD HEVC
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18792
-#EXTINF:-1 tvg-id="beIN Sports 5 FDH" tvg-name="beIN Sports 5 FHD HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="VIP Sports",beIN Sports 5 FHD HEVC
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18789
-#EXTINF:-1 tvg-id="beIN Sports 6 FDH" tvg-name="beIN Sports 6 FHD HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="VIP Sports",beIN Sports 6 FHD HEVC
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18787
-#EXTINF:-1 tvg-id="beIN Sports 7 FDH" tvg-name="beIN Sports 7 FHD HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="VIP Sports",beIN Sports 7 FHD HEVC
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18785
-
-// --- جودة HD ---
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="VIP Sports",beIN Sports Premium 1 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18784
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Premium 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="VIP Sports",beIN Sport Premium 1 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18769
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png" group-title="VIP Sports",beIN Sports Premium 2 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18782
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Premium 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png" group-title="VIP Sports",beIN Sport Premium 2 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18768
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Premium 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="VIP Sports",beIN Sport Premium 3 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18767
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="VIP Sports",beIN Sports 1 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/75011
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="VIP Sports",beIN Sport 1 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18776
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="VIP Sports",beIN Sports 2 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/75010
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="VIP Sports",beIN Sport 2 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18775
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="VIP Sports",beIN Sports 3 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18797
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="VIP Sports",beIN Sport 3 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18774
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="VIP Sports",beIN Sports 4 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18793
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="VIP Sports",beIN Sport 4 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18773
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="VIP Sports",beIN Sports 5 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18790
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="VIP Sports",beIN Sport 5 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18772
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="VIP Sports",beIN Sports 6 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18788
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="VIP Sports",beIN Sport 6 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18771
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="VIP Sports",beIN Sports 7 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18786
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="VIP Sports",beIN Sport 7 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18770
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 11 HD" group-title="VIP Sports",beIN Sports 11 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18766
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 12 HD" group-title="VIP Sports",beIN Sports 12 HD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/18765
-
-// --- جودة SD ---
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Premium 1 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="VIP Sports",beIN Sport Premium 1 SD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/75007
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Premium 2 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png" group-title="VIP Sports",beIN Sport Premium 2 SD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/75008
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Premium 3 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="VIP Sports",beIN Sport Premium 3 SD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/75009
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="VIP Sports",beIN Sport 1 SD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/75000
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="VIP Sports",beIN Sport 2 SD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/75001
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="VIP Sports",beIN Sport 3 SD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/75002
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="VIP Sports",beIN Sport 4 SD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/75003
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="VIP Sports",beIN Sport 5 SD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/75004
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="VIP Sports",beIN Sport 6 SD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/75005
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="VIP Sports",beIN Sport 7 SD
-http://porn-hub.streamtv.to:8080/ashkan.o/c4iHWuFUkr/75006
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 1 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 1 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 1 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 2 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 2 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678280.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 2 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678286.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 2 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 2 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678292.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 3 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 3 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678281.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 3 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678287.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 3 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 3 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678293.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 4 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 4 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678282.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 4 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678288.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 4 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 4 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678294.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678278.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 5 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 5 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678283.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 5 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 5 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678289.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC 5 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC 5 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678295.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678284.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport AFC SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sport AFC SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/678290.m3u8 
+#EXTINF:-1 tvg-id="BS1" tvg-name="BEIN SPORm3u8    1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8    1 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333799.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  1 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  1 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333800.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  1 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420133.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  1 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  1 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420149.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  2 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  2 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333801.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  2 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  2 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333802.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  2 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420134.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  2 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  2 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420150.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  3 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  3 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333803.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  3 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  3 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333804.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  3 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420135.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  3 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  3 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420151.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  4 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  4 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333805.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  4 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  4 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333806.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  4 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420136.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  4 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  4 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420152.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  5 4k" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  5 4k
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333807.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  5 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  5 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333808.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  5 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  5 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420137.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  5 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  5 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420153.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  6 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  6 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333809.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  6 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  6 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333810.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  6 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  6 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420138.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  6 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  6 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420154.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  7 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  7 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333811.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  7 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  7 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333812.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  7 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  7 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420139.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  7 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  7 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420155.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  8 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  8 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333813.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  8 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  8 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333814.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  8 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  8 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420140.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  8 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  8 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420156.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  9 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  9 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333815.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  9 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  9 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333816.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  9 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  9 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420141.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  9 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  9 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420157.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 1 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885764.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 1 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 1 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885767.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 1 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885770.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 1 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 1 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885773.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 2 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 2 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885765.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 2 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 2 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885768.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 2 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885771.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 2 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 2 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885774.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 3 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 3 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885766.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 3 FHD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 3 FHD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885769.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 3 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885772.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sporm3u8  Max 3 SD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",Bein Sporm3u8  Max 3 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/885775.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  XTRA 1 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  XTRA 1 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333819.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORm3u8  XTRA 2 4K" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",BEIN SPORm3u8  XTRA 2 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/333820.m3u8 
