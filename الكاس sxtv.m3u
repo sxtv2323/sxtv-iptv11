@@ -1,13 +1,32 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 1HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ARABIC SPORTS | OTT",AR|Al KASS 1HD
-http://199.115.193.116:8080/live/90337864331136/90337864331136/401928.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 2HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ARABIC SPORTS | OTT",AR|Al KASS 2HD
-http://199.115.193.116:8080/live/90337864331136/90337864331136/401929.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 3HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ARABIC SPORTS | OTT",AR|Al KASS 3HD
-http://199.115.193.116:8080/live/90337864331136/90337864331136/401930.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 4HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ARABIC SPORTS | OTT",AR|Al KASS 4HD
-http://199.115.193.116:8080/live/90337864331136/90337864331136/401931.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 5HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ARABIC SPORTS | OTT",AR|Al KASS 5HD
-http://199.115.193.116:8080/live/90337864331136/90337864331136/401932.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AR|Al KASS 6HD" tvg-logo="https://raw.githubusercontent.com/ailshikar111g/-Vdh/refs/heads/main/unnamed.jpg" group-title="ARABIC SPORTS | OTT",AR|Al KASS 6HD
-http://199.115.193.116:8080/live/90337864331136/90337864331136/401933.m3u8
+#EXTINF:-1 tvg-ID="Alkass one HD" tvg-name="Ar: Al Kass One HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-one-qa.png" group-title="Sports",Ar: Al Kass One HD
+http://splustv.me:80/meto/metology/46761
+#EXTINF:-1 tvg-ID="Alkass two HD" tvg-name="Ar: Al Kass Two HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-two-qa.png" group-title="Sports",Ar: Al Kass Two HD
+http://splustv.me:80/meto/metology/46760
+#EXTINF:-1 tvg-ID="Alkass three HD" tvg-name="Ar: Al Kass Three HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_kass_qa_3.png" group-title="Sports",Ar: Al Kass Three HD
+http://splustv.me:80/meto/metology/46759
+#EXTINF:-1 tvg-ID="Alkass four HD" tvg-name="Ar: Al Kass Four HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-four-qa.png" group-title="Sports",Ar: Al Kass Four HD
+http://splustv.me:80/meto/metology/46757
+#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Five SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-five-qa.png" group-title="AL Kass TV",Ar: Al Kass Five SD
+http://splustv.me:80/meto/metology/113778
+#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Five HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-five-qa.png" group-title="AL Kass TV",Ar: Al Kass Five HD
+http://splustv.me:80/meto/metology/46756
+#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Five 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-five-qa.png" group-title="AL Kass TV",Ar: Al Kass Five 4K (H265)
+http://splustv.me:80/meto/metology/113774
+#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Six SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-six-qa.png" group-title="AL Kass TV",Ar: Al Kass Six SD
+http://splustv.me:80/meto/metology/113777
+#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Six HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-six-qa.png" group-title="AL Kass TV",Ar: Al Kass Six HD
+http://splustv.me:80/meto/metology/66973
+#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Six 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-six-qa.png" group-title="AL Kass TV",Ar: Al Kass Six 4K (H265)
+http://splustv.me:80/meto/metology/113773
+#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Seven SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-seven-qa.png" group-title="AL Kass TV",Ar: Al Kass Seven SD
+http://splustv.me:80/meto/metology/113776
+#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Seven HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-seven-qa.png" group-title="AL Kass TV",Ar: Al Kass Seven HD
+http://splustv.me:80/meto/metology/66974
+#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Seven 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-seven-qa.png" group-title="AL Kass TV",Ar: Al Kass Seven 4K (H265)
+http://splustv.me:80/meto/metology/113772
+#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Eight SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-eight-qa.png" group-title="AL Kass TV",Ar: Al Kass Eight SD
+http://splustv.me:80/meto/metology/113775
+#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Eight HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-eight-qa.png" group-title="AL Kass TV",Ar: Al Kass Eight HD
+http://splustv.me:80/meto/metology/66975
+#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Eight 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-eight-qa.png" group-title="AL Kass TV",Ar: Al Kass Eight 4K (H265)
+http://splustv.me:80/meto/metology/113771
