@@ -1,87 +1,239 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS HD 1" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS HD 1
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27111.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS HD 2" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS HD 2
-http://199.115.193.116:8080/live/90337864331136/90337864331136/400056.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS 1 FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 1 FHD
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27099.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS SD 1" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS SD 1
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27073.m3u8
-#EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="|BEIN AR|  BEIN SPORTS PREMIUM 1 H265" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS PREMIUM 1 H265
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27063.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS SD 2" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS SD 2
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27072.m3u8
-#EXTINF:-1 tvg-id="BeinSportsPremium2.qa" tvg-name="|BEIN AR|  BEIN SPORTS PREMIUM 2 H265" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS PREMIUM 2 H265
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27062.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS 3 FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 3 FHD
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27097.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS HD 3" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS HD 3
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27109.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS SD 3" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS SD 3
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27071.m3u8
-#EXTINF:-1 tvg-id="BeinSportsPremium3.qa" tvg-name="|BEIN AR|  BEIN SPORTS PREMIUM 3 H265" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS PREMIUM 3 H265
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27061.m3u8
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|BEIN AR|  BEIN SPORTS 1 H265" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 1 H265
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27060.m3u8
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|BEIN AR| BEIN SPORTS 4 FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR| BEIN SPORTS 4 FHD
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27095.m3u8
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|BEIN AR| BEIN SPORTS HD 4" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR| BEIN SPORTS HD 4
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27107.m3u8
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|BEIN AR|  BEIN SPORTS SD 4" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS SD 4
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27069.m3u8
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|BEIN AR|  BEIN SPORTS 2 H265" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 2 H265
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27059.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR| BEIN SPORTS 5 FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR| BEIN SPORTS 5 FHD
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27094.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR| BEIN SPORTS HD 5" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR| BEIN SPORTS HD 5
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27106.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS SD 5" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS SD 5
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27068.m3u8
-#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|BEIN AR|  BEIN SPORTS 3 H265" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 3 H265
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27058.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS 6 FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 6 FHD
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27093.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR| BEIN SPORTS HD 6" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR| BEIN SPORTS HD 6
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27105.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS SD 6" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS SD 6
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27067.m3u8
-#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="|BEIN AR|  BEIN SPORTS 4 H265" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 4 H265
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27057.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS 7 FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 7 FHD
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27092.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR| BEIN SPORTS HD 7" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR| BEIN SPORTS HD 7
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27104.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS SD 5" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS SD 5
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27066.m3u8
-#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="|BEIN AR|  BEIN SPORTS 5 H265" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 5 H265
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27056.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS 8 FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 8 FHD
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27091.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR| BEIN SPORTS HD 8" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR| BEIN SPORTS HD 8
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27103.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS SD 8" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS SD 8
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27065.m3u8
-#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="|BEIN AR|  BEIN SPORTS 6 H265" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 6 H265
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27055.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS 9 FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 9 FHD
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27090.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR| BEIN SPORTS HD 9" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR| BEIN SPORTS HD 9
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27102.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS SD 9" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS SD 9
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27064.m3u8
-#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="|BEIN AR|  BEIN SPORTS 7 H265" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 7 H265
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27054.m3u8
-#EXTINF:-1 tvg-id="beINSportsFrench2.qa" tvg-name="|BEIN AR|  BEIN SPORTS HD 2 FR" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsfr.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS HD 2 FR
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27100.m3u8
-#EXTINF:-1 tvg-id="beINSportsFrench1.qa" tvg-name="|BEIN AR|  BEIN SPORTS HD 1 FR" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsfr.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS HD 1 FR
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27101.m3u8
-#EXTINF:-1 tvg-id="beINSports.qa" tvg-name="|BEIN AR|  BEIN SPORTS HD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS HD
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27112.m3u8
-#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name="|BEIN AR|  BEIN SPORTS NEWS HD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS NEWS HD
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27113.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|BEIN USA| BEIN SPORTS (2) HD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN USA| BEIN SPORTS (2) HD
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27049.m3u8
-#EXTINF:-1 tvg-id="beINLaLigaMAX1.es" tvg-name="|BEIN ES| BEIN LA LIGA" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN ES| BEIN LA LIGA
-http://199.115.193.116:8080/live/90337864331136/90337864331136/27052.m3u8
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS 2 FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 2 FHD
-http://199.115.193.116:8080/live/90337864331136/90337864331136/400057.m3u8
+#EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="BeIN Sports Max 1 Low" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-1-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 1 Low
+http://splustv.me:80/meto/metology/100944
+#EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="BeIN Sports Max 1SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-1-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 1SD
+http://splustv.me:80/meto/metology/100948
+#EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="BeIN Sports Max 1HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-1-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 1HD
+http://splustv.me:80/meto/metology/100952
+#EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="BeIN Sports Max 1 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-1-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 1 4K (H265)
+http://splustv.me:80/meto/metology/100956
+#EXTINF:-1 tvg-ID="beinsportsmax2.qa" tvg-name="BeIN Sports Max 2 Low" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-2-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 2 Low
+http://splustv.me:80/meto/metology/100943
+#EXTINF:-1 tvg-ID="beinsportsmax2.qa" tvg-name="BeIN Sports Max 2SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-2-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 2SD
+http://splustv.me:80/meto/metology/100947
+#EXTINF:-1 tvg-ID="beinsportsmax2.qa" tvg-name="BeIN Sports Max 2HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-2-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 2HD
+http://splustv.me:80/meto/metology/100951
+#EXTINF:-1 tvg-ID="beinsportsmax2.qa" tvg-name="BeIN Sports Max 2 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-2-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 2 4K (H265)
+http://splustv.me:80/meto/metology/100955
+#EXTINF:-1 tvg-ID="beinsportsmax3.qa" tvg-name="BeIN Sports Max 3 Low" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-3-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 3 Low
+http://splustv.me:80/meto/metology/109263
+#EXTINF:-1 tvg-ID="beinsportsmax3.qa" tvg-name="BeIN Sports Max 3SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-3-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 3SD
+http://splustv.me:80/meto/metology/109262
+#EXTINF:-1 tvg-ID="beinsportsmax3.qa" tvg-name="BeIN Sports Max 3HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-3-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 3HD
+http://splustv.me:80/meto/metology/109261
+#EXTINF:-1 tvg-ID="beinsportsmax3.qa" tvg-name="BeIN Sports Max 3 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-3-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 3 4K (H265)
+http://splustv.me:80/meto/metology/109260
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports Max 4 Low" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-4-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 4 Low
+http://splustv.me:80/meto/metology/141443
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports Max 4SD" tvg-logo="" group-title="BeIN Sports Max",BeIN Sports Max 4SD
+http://splustv.me:80/meto/metology/141442
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports Max 4HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-4-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 4HD
+http://splustv.me:80/meto/metology/141435
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports Max 4 4K (H265) " tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-4-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 4 4K (H265) 
+http://splustv.me:80/meto/metology/141434
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports Max 1 Low (Backup)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-1-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 1 Low (Backup)
+http://splustv.me:80/meto/metology/109259
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports Max 2 Low (Backup)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-2-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 2 Low (Backup)
+http://splustv.me:80/meto/metology/109258
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports Max 1SD (Backup)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-1-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 1SD (Backup)
+http://splustv.me:80/meto/metology/109257
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports Max 2SD (Backup)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-2-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 2SD (Backup)
+http://splustv.me:80/meto/metology/109256
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports Max 1HD (Backup)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-1-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 1HD (Backup)
+http://splustv.me:80/meto/metology/109255
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports Max 2HD (Backup)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-2-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 2HD (Backup)
+http://splustv.me:80/meto/metology/109254
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports Max 1 4K (H265) (Backup)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-1-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 1 4K (H265) (Backup)
+http://splustv.me:80/meto/metology/109253
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports Max 2 4K (H265) (Backup)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-2-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 2 4K (H265) (Backup)
+http://splustv.me:80/meto/metology/109252
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="beIN SPORT Very Low 1" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BeIN Sports Very LQ",beIN SPORT Very Low 1
+http://splustv.me:80/meto/metology/87827
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN SPORT Very Low 2" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BeIN Sports Very LQ",beIN SPORT Very Low 2
+http://splustv.me:80/meto/metology/87826
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN SPORT Very Low 3" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BeIN Sports Very LQ",beIN SPORT Very Low 3
+http://splustv.me:80/meto/metology/87825
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN SPORT Very Low 4" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BeIN Sports Very LQ",beIN SPORT Very Low 4
+http://splustv.me:80/meto/metology/87829
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN SPORT Very Low 5" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BeIN Sports Very LQ",beIN SPORT Very Low 5
+http://splustv.me:80/meto/metology/87830
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN SPORT Very Low 6" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BeIN Sports Very LQ",beIN SPORT Very Low 6
+http://splustv.me:80/meto/metology/87831
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN SPORT Very Low 7" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BeIN Sports Very LQ",beIN SPORT Very Low 7
+http://splustv.me:80/meto/metology/87832
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN SPORT Very Low 8" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BeIN Sports Very LQ",beIN SPORT Very Low 8
+http://splustv.me:80/meto/metology/87833
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORT Very Low 9" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BeIN Sports Very LQ",beIN SPORT Very Low 9
+http://splustv.me:80/meto/metology/87834
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="beIN SPORTS 1 Low" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BeIN Sports LQ",beIN SPORTS 1 Low
+http://splustv.me:80/meto/metology/44562
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN SPORTS 2 Low" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BeIN Sports LQ",beIN SPORTS 2 Low
+http://splustv.me:80/meto/metology/44563
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN SPORTS 3 Low" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BeIN Sports LQ",beIN SPORTS 3 Low
+http://splustv.me:80/meto/metology/44564
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN SPORTS 4 Low" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BeIN Sports LQ",beIN SPORTS 4 Low
+http://splustv.me:80/meto/metology/44555
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN SPORTS 5 Low" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BeIN Sports LQ",beIN SPORTS 5 Low
+http://splustv.me:80/meto/metology/44556
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN SPORTS 6 Low" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BeIN Sports LQ",beIN SPORTS 6 Low
+http://splustv.me:80/meto/metology/44557
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN SPORTS 7 Low" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BeIN Sports LQ",beIN SPORTS 7 Low
+http://splustv.me:80/meto/metology/44558
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN SPORTS 8 Low" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BeIN Sports LQ",beIN SPORTS 8 Low
+http://splustv.me:80/meto/metology/44559
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="beIN SPORTS 9 Low" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BeIN Sports LQ",beIN SPORTS 9 Low
+http://splustv.me:80/meto/metology/44560
+#EXTINF:-1 tvg-ID="beinsportsxtra1ar.qa" tvg-name="beIN SPORTS Xtra 1 Low" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="BeIN Sports LQ",beIN SPORTS Xtra 1 Low
+http://splustv.me:80/meto/metology/60303
+#EXTINF:-1 tvg-ID="beinsportsmax2ar.qa" tvg-name="beIN SPORTS Xtra 2 Low" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png" group-title="BeIN Sports LQ",beIN SPORTS Xtra 2 Low
+http://splustv.me:80/meto/metology/60305
+#EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="beIN SPORTS Xtra 3 Low" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="BeIN Sports LQ",beIN SPORTS Xtra 3 Low
+http://splustv.me:80/meto/metology/44561
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="beIN SPORTS 1SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BeIN Sports SD",beIN SPORTS 1SD
+http://splustv.me:80/meto/metology/18043
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN SPORTS 2SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BeIN Sports SD",beIN SPORTS 2SD
+http://splustv.me:80/meto/metology/18042
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN SPORTS 3SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BeIN Sports SD",beIN SPORTS 3SD
+http://splustv.me:80/meto/metology/18041
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN SPORTS 4SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BeIN Sports SD",beIN SPORTS 4SD
+http://splustv.me:80/meto/metology/18050
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN SPORTS 5SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BeIN Sports SD",beIN SPORTS 5SD
+http://splustv.me:80/meto/metology/18049
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN SPORTS 6SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BeIN Sports SD",beIN SPORTS 6SD
+http://splustv.me:80/meto/metology/18048
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN SPORTS 7SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BeIN Sports SD",beIN SPORTS 7SD
+http://splustv.me:80/meto/metology/18047
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN SPORTS 8SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BeIN Sports SD",beIN SPORTS 8SD
+http://splustv.me:80/meto/metology/18046
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="beIN SPORTS 9SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BeIN Sports SD",beIN SPORTS 9SD
+http://splustv.me:80/meto/metology/18045
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="beIN SPORTS 1 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BeIN Sports HQ",beIN SPORTS 1 HQ
+http://splustv.me:80/meto/metology/44572
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN SPORTS 2 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BeIN Sports HQ",beIN SPORTS 2 HQ
+http://splustv.me:80/meto/metology/44573
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 3 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BeIN Sports HQ",beIN SPORTS 3 HQ
+http://splustv.me:80/meto/metology/44574
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN SPORTS 4 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BeIN Sports HQ",beIN SPORTS 4 HQ
+http://splustv.me:80/meto/metology/44565
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN SPORTS 5 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BeIN Sports HQ",beIN SPORTS 5 HQ
+http://splustv.me:80/meto/metology/44566
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN SPORTS 6 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BeIN Sports HQ",beIN SPORTS 6 HQ
+http://splustv.me:80/meto/metology/44567
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN SPORTS 7 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BeIN Sports HQ",beIN SPORTS 7 HQ
+http://splustv.me:80/meto/metology/44568
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN SPORTS 8 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BeIN Sports HQ",beIN SPORTS 8 HQ
+http://splustv.me:80/meto/metology/44569
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="beIN SPORTS 9 HQ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BeIN Sports HQ",beIN SPORTS 9 HQ
+http://splustv.me:80/meto/metology/44570
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="beIN Sports 1HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BeIN Sports HD",beIN Sports 1HD
+http://splustv.me:80/meto/metology/17976
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN Sports 2HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BeIN Sports HD",beIN Sports 2HD
+http://splustv.me:80/meto/metology/17975
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BeIN Sports HD",beIN Sports 3HD
+http://splustv.me:80/meto/metology/17974
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BeIN Sports HD",beIN Sports 4HD
+http://splustv.me:80/meto/metology/17983
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN Sports 5HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BeIN Sports HD",beIN Sports 5HD
+http://splustv.me:80/meto/metology/17982
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN Sports 6HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BeIN Sports HD",beIN Sports 6HD
+http://splustv.me:80/meto/metology/17981
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN Sports 7HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BeIN Sports HD",beIN Sports 7HD
+http://splustv.me:80/meto/metology/17980
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN Sports 8HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BeIN Sports HD",beIN Sports 8HD
+http://splustv.me:80/meto/metology/17979
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="beIN Sports 9HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BeIN Sports HD",beIN Sports 9HD
+http://splustv.me:80/meto/metology/17978
+#EXTINF:-1 tvg-ID="beinsportsxtra1.qa" tvg-name="beIN Sports Xtra 1HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="BeIN Sports HD",beIN Sports Xtra 1HD
+http://splustv.me:80/meto/metology/54926
+#EXTINF:-1 tvg-ID="beinsportsxtra2.qa" tvg-name="beIN Sports Xtra 2HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png" group-title="BeIN Sports HD",beIN Sports Xtra 2HD
+http://splustv.me:80/meto/metology/60313
+#EXTINF:-1 tvg-ID="beinsportsxtra3.qa" tvg-name="beIN Sports Xtra 3HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="BeIN Sports HD",beIN Sports Xtra 3HD
+http://splustv.me:80/meto/metology/17977
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports Xtra  4HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-4-qa.png" group-title="BeIN Sports HD",BeIN Sports Xtra  4HD
+http://splustv.me:80/meto/metology/127213
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports Xtra  5HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-5-qa.png" group-title="BeIN Sports HD",BeIN Sports Xtra  5HD
+http://splustv.me:80/meto/metology/127212
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports Xtra  6HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-6-qa.png" group-title="BeIN Sports HD",BeIN Sports Xtra  6HD
+http://splustv.me:80/meto/metology/127211
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="beIN Sports English 1HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="BeIN Sports HD",beIN Sports English 1HD
+http://splustv.me:80/meto/metology/18629
+#EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="beIN Sports English 2HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-2-qa.png" group-title="BeIN Sports HD",beIN Sports English 2HD
+http://splustv.me:80/meto/metology/44319
+#EXTINF:-1 tvg-ID="beinsports1fr.qa" tvg-name="beIN Sports French 1HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-french-1-qa.png" group-title="BeIN Sports HD",beIN Sports French 1HD
+http://splustv.me:80/meto/metology/18632
+#EXTINF:-1 tvg-ID="beinsports2fr.qa" tvg-name="beIN Sports French 2HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-french-2-qa.png" group-title="BeIN Sports HD",beIN Sports French 2HD
+http://splustv.me:80/meto/metology/18633
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="beIN Sports 1FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BeIN Sports FHD",beIN Sports 1FHD
+http://splustv.me:80/meto/metology/31542
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN Sports 2FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BeIN Sports FHD",beIN Sports 2FHD
+http://splustv.me:80/meto/metology/31543
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BeIN Sports FHD",beIN Sports 3FHD
+http://splustv.me:80/meto/metology/31544
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BeIN Sports FHD",beIN Sports 4FHD
+http://splustv.me:80/meto/metology/31535
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN Sports 5FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BeIN Sports FHD",beIN Sports 5FHD
+http://splustv.me:80/meto/metology/31536
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN Sports 6FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BeIN Sports FHD",beIN Sports 6FHD
+http://splustv.me:80/meto/metology/31537
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN Sports 7FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BeIN Sports FHD",beIN Sports 7FHD
+http://splustv.me:80/meto/metology/31538
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN Sports 8FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BeIN Sports FHD",beIN Sports 8FHD
+http://splustv.me:80/meto/metology/31539
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sports 9FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BeIN Sports FHD",beIN Sports 9FHD
+http://splustv.me:80/meto/metology/31540
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="Bein Sports SD1 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BeIN Sports SD (H.265)",Bein Sports SD1 (H.265)
+http://splustv.me:80/meto/metology/40837
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="Bein Sports SD2 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BeIN Sports SD (H.265)",Bein Sports SD2 (H.265)
+http://splustv.me:80/meto/metology/40838
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="Bein Sports SD3(H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BeIN Sports SD (H.265)",Bein Sports SD3(H.265)
+http://splustv.me:80/meto/metology/40839
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="Bein Sports SD4 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BeIN Sports SD (H.265)",Bein Sports SD4 (H.265)
+http://splustv.me:80/meto/metology/40830
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="Bein Sports SD5 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BeIN Sports SD (H.265)",Bein Sports SD5 (H.265)
+http://splustv.me:80/meto/metology/40831
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="Bein Sports SD6 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BeIN Sports SD (H.265)",Bein Sports SD6 (H.265)
+http://splustv.me:80/meto/metology/40832
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="Bein Sports SD7 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BeIN Sports SD (H.265)",Bein Sports SD7 (H.265)
+http://splustv.me:80/meto/metology/40833
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="Bein Sports SD8 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BeIN Sports SD (H.265)",Bein Sports SD8 (H.265)
+http://splustv.me:80/meto/metology/40834
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="Bein Sports SD9 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BeIN Sports SD (H.265)",Bein Sports SD9 (H.265)
+http://splustv.me:80/meto/metology/40835
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="Bein Sports HD1 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BeIN Sports HD (H.265)",Bein Sports HD1 (H.265)
+http://splustv.me:80/meto/metology/40125
+#EXTINF:-1 tvg-ID="beinseries2.qa" tvg-name="Bein Sports HD2 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BeIN Sports HD (H.265)",Bein Sports HD2 (H.265)
+http://splustv.me:80/meto/metology/40126
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="Bein Sports HD3 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BeIN Sports HD (H.265)",Bein Sports HD3 (H.265)
+http://splustv.me:80/meto/metology/40127
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="Bein Sports HD4 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BeIN Sports HD (H.265)",Bein Sports HD4 (H.265)
+http://splustv.me:80/meto/metology/40118
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="Bein Sports HD5 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BeIN Sports HD (H.265)",Bein Sports HD5 (H.265)
+http://splustv.me:80/meto/metology/40119
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="Bein Sports HD6 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BeIN Sports HD (H.265)",Bein Sports HD6 (H.265)
+http://splustv.me:80/meto/metology/40120
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="Bein Sports HD7 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BeIN Sports HD (H.265)",Bein Sports HD7 (H.265)
+http://splustv.me:80/meto/metology/40121
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="Bein Sports HD8 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BeIN Sports HD (H.265)",Bein Sports HD8 (H.265)
+http://splustv.me:80/meto/metology/40122
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="Bein Sports HD9 (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BeIN Sports HD (H.265)",Bein Sports HD9 (H.265)
+http://splustv.me:80/meto/metology/40123
+#EXTINF:-1 tvg-ID="" tvg-name="beIN 4K (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-4k-qa.png" group-title="BeIN Sports 4K (H.265)",beIN 4K (H.265)
+http://splustv.me:80/meto/metology/72144
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="beIN Sports 1 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="BeIN Sports 4K (H.265)",beIN Sports 1 4K (H265)
+http://splustv.me:80/meto/metology/18088
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="beIN Sports 2 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="BeIN Sports 4K (H.265)",beIN Sports 2 4K (H265)
+http://splustv.me:80/meto/metology/18087
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="BeIN Sports 4K (H.265)",beIN Sports 3 4K (H265)
+http://splustv.me:80/meto/metology/18086
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="BeIN Sports 4K (H.265)",beIN Sports 4 4K (H265)
+http://splustv.me:80/meto/metology/18095
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="beIN Sports 5 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="BeIN Sports 4K (H.265)",beIN Sports 5 4K (H265)
+http://splustv.me:80/meto/metology/18094
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="beIN Sports 6 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="BeIN Sports 4K (H.265)",beIN Sports 6 4K (H265)
+http://splustv.me:80/meto/metology/18093
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="beIN Sports 7 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="BeIN Sports 4K (H.265)",beIN Sports 7 4K (H265)
+http://splustv.me:80/meto/metology/18092
+#EXTINF:-1 tvg-ID="beinsports8.qa" tvg-name="beIN Sports 8 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="BeIN Sports 4K (H.265)",beIN Sports 8 4K (H265)
+http://splustv.me:80/meto/metology/18091
+#EXTINF:-1 tvg-ID="beinsports9.qa" tvg-name="beIN Sports 9 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="BeIN Sports 4K (H.265)",beIN Sports 9 4K (H265)
+http://splustv.me:80/meto/metology/18090
