@@ -1,32 +1,71 @@
-#EXTINF:-1 tvg-ID="Alkass one HD" tvg-name="Ar: Al Kass One HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-one-qa.png" group-title="Sports",Ar: Al Kass One HD
-http://splustv.me:80/meto/metology/46761
-#EXTINF:-1 tvg-ID="Alkass two HD" tvg-name="Ar: Al Kass Two HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-two-qa.png" group-title="Sports",Ar: Al Kass Two HD
-http://splustv.me:80/meto/metology/46760
-#EXTINF:-1 tvg-ID="Alkass three HD" tvg-name="Ar: Al Kass Three HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_kass_qa_3.png" group-title="Sports",Ar: Al Kass Three HD
-http://splustv.me:80/meto/metology/46759
-#EXTINF:-1 tvg-ID="Alkass four HD" tvg-name="Ar: Al Kass Four HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-four-qa.png" group-title="Sports",Ar: Al Kass Four HD
-http://splustv.me:80/meto/metology/46757
-#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Five SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-five-qa.png" group-title="AL Kass TV",Ar: Al Kass Five SD
-http://splustv.me:80/meto/metology/113778
-#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Five HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-five-qa.png" group-title="AL Kass TV",Ar: Al Kass Five HD
-http://splustv.me:80/meto/metology/46756
-#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Five 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-five-qa.png" group-title="AL Kass TV",Ar: Al Kass Five 4K (H265)
-http://splustv.me:80/meto/metology/113774
-#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Six SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-six-qa.png" group-title="AL Kass TV",Ar: Al Kass Six SD
-http://splustv.me:80/meto/metology/113777
-#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Six HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-six-qa.png" group-title="AL Kass TV",Ar: Al Kass Six HD
-http://splustv.me:80/meto/metology/66973
-#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Six 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-six-qa.png" group-title="AL Kass TV",Ar: Al Kass Six 4K (H265)
-http://splustv.me:80/meto/metology/113773
-#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Seven SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-seven-qa.png" group-title="AL Kass TV",Ar: Al Kass Seven SD
-http://splustv.me:80/meto/metology/113776
-#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Seven HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-seven-qa.png" group-title="AL Kass TV",Ar: Al Kass Seven HD
-http://splustv.me:80/meto/metology/66974
-#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Seven 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-seven-qa.png" group-title="AL Kass TV",Ar: Al Kass Seven 4K (H265)
-http://splustv.me:80/meto/metology/113772
-#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Eight SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-eight-qa.png" group-title="AL Kass TV",Ar: Al Kass Eight SD
-http://splustv.me:80/meto/metology/113775
-#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Eight HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-eight-qa.png" group-title="AL Kass TV",Ar: Al Kass Eight HD
-http://splustv.me:80/meto/metology/66975
-#EXTINF:-1 tvg-ID="" tvg-name="Ar: Al Kass Eight 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-kass-eight-qa.png" group-title="AL Kass TV",Ar: Al Kass Eight 4K (H265)
-http://splustv.me:80/meto/metology/113771
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 1 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 1 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837336.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 1 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837346.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 1 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 1 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837356.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 10 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 10 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837345.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 10 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 10 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837355.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 10 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 10 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837365.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 2 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 2 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837337.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 2 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837347.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 2 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 2 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837357.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 3 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 3 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837338.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 3 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837348.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 3 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 3 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837358.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 4 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 4 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837339.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 4 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837349.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 4 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 4 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837359.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 5 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 5 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837340.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 5 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 5 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837350.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 5 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 5 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837360.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 6 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 6 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837341.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 6 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 6 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837351.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 6 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 6 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837361.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 7 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 7 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837342.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 7 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 7 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837352.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 7 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 7 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837362.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 8 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 8 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837343.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 8 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 8 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837353.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 8 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 8 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837363.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 9 4K" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 9 4K
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837344.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 9 HD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 9 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837354.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Alkass 9 SD" tvg-logo="https://cdn.mada.org.qa/data/wp-content/uploads/2020/04/alkass_en2.png" group-title="ALKASS SPORm3u8  VIP",BeIN Alkass 9 SD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/837364.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" BeIN Alkass 1 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",|AR| BeIN Alkass 1 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420171.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" BeIN Alkass 2 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",|AR| BeIN Alkass 2 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420172.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" BeIN Alkass 3 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",|AR| BeIN Alkass 3 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420173.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" BeIN Alkass 4 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",|AR| BeIN Alkass 4 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420174.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name=" BeIN Alkass 5 HD" tvg-logo="http://x12tv.co/mbc/bein-sport-1-logo.png" group-title="BEIN SP VIP-سبورت ",|AR| BeIN Alkass 5 HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/420175.m3u8 
+
