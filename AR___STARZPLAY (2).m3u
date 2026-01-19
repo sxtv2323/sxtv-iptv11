@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="✦●✦ STARZPLAY ✦●✦" tvg-logo="https://lo1.in/FCB/flg.png" group-title="AR | STARZPLAY",✦●✦ STARZPLAY ✦●✦
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/225572.m3u8
+#EXTINF:-1 tvg-name="AR| AD SPORTS 1 HEVC" tvg-logo="https://lo1.in/stplay1/adh1.png" group-title="AR | STARZPLAY",AR| AD SPORTS 1 HEVC
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/3339.m3u8
+#EXTINF:-1 tvg-name="AR| AD SPORTS 2 HEVC" tvg-logo="https://lo1.in/stplay1/sadh2.png" group-title="AR | STARZPLAY",AR| AD SPORTS 2 HEVC
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/3338.m3u8
+#EXTINF:-1 tvg-name="AR| STARZPLAY SPORTS 1 FHD" tvg-logo="https://lo1.in/stplay1/adp1.png" group-title="AR | STARZPLAY",AR| STARZPLAY SPORTS 1 FHD
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/5904.m3u8
+#EXTINF:-1 tvg-name="AR| STARZPLAY SPORTS 1 HEVC" tvg-logo="https://lo1.in/stplay1/adp1.png" group-title="AR | STARZPLAY",AR| STARZPLAY SPORTS 1 HEVC
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/1155.m3u8
+#EXTINF:-1 tvg-name="AR| STARZPLAY SPORTS 1 HD" tvg-logo="https://lo1.in/stplay1/adp1.png" group-title="AR | STARZPLAY",AR| STARZPLAY SPORTS 1 HD
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/5903.m3u8
+#EXTINF:-1 tvg-name="AR| STARZPLAY SPORT 1 [BK]" tvg-logo="https://lo1.in/stplay1/flg.png" group-title="AR | STARZPLAY",AR| STARZPLAY SPORT 1 [BK]
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/1284332.m3u8
+#EXTINF:-1 tvg-name="AR| STARZPLAY SPORTS 1 SD" tvg-logo="https://lo1.in/stplay1/adp1.png" group-title="AR | STARZPLAY",AR| STARZPLAY SPORTS 1 SD
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/5902.m3u8
+#EXTINF:-1 tvg-name="AR| STARZPLAY SPORTS 2 FHD" tvg-logo="https://lo1.in/stplay1/sadh2.png" group-title="AR | STARZPLAY",AR| STARZPLAY SPORTS 2 FHD
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/5901.m3u8
+#EXTINF:-1 tvg-name="AR| STARZPLAY SPORTS 2 HEVC" tvg-logo="https://lo1.in/FCB/flg.png" group-title="AR | STARZPLAY",AR| STARZPLAY SPORTS 2 HEVC
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/1154.m3u8
+#EXTINF:-1 tvg-name="AR| STARZPLAY SPORTS 2 HD" tvg-logo="https://lo1.in/stplay1/sadh2.png" group-title="AR | STARZPLAY",AR| STARZPLAY SPORTS 2 HD
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/5900.m3u8
+#EXTINF:-1 tvg-name="AR| STARZPLAY SPORT 2 [BK]" tvg-logo="https://lo1.in/stplay1/flg.png" group-title="AR | STARZPLAY",AR| STARZPLAY SPORT 2 [BK]
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/1284331.m3u8
+#EXTINF:-1 tvg-name="AR| STARZPLAY SPORTS 2 SD" tvg-logo="https://lo1.in/stplay1/sadh2.png" group-title="AR | STARZPLAY",AR| STARZPLAY SPORTS 2 SD
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/5899.m3u8
+#EXTINF:-1 tvg-name="AR| STARZPLAY SPORT 3 FHD" tvg-logo="https://lo1.in/FCB/flg.png" group-title="AR | STARZPLAY",AR| STARZPLAY SPORT 3 FHD
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/5898.m3u8
+#EXTINF:-1 tvg-name="AR| STARZPLAY SPORT 3 HD" tvg-logo="https://lo1.in/FCB/flg.png" group-title="AR | STARZPLAY",AR| STARZPLAY SPORT 3 HD
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/5897.m3u8
+#EXTINF:-1 tvg-name="AR| STARZPLAY SPORT 3 [BK]" tvg-logo="https://lo1.in/stplay1/flg.png" group-title="AR | STARZPLAY",AR| STARZPLAY SPORT 3 [BK]
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/1284330.m3u8
+#EXTINF:-1 tvg-name="AR| STARZPLAY SPORT 3 SD" tvg-logo="https://lo1.in/FCB/flg.png" group-title="AR | STARZPLAY",AR| STARZPLAY SPORT 3 SD
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/5896.m3u8
+#EXTINF:-1 tvg-name="AR| YAS SPORTS FHD" tvg-logo="https://lo1.in/arss/yassport.png" group-title="AR | STARZPLAY",AR| YAS SPORTS FHD
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/3337.m3u8
+#EXTINF:-1 tvg-name="AR| STARZPLAY DAZN FHD" tvg-logo="https://lo1.in/FCB/flg.png" group-title="AR | STARZPLAY",AR| STARZPLAY DAZN FHD
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/19140.m3u8
+#EXTINF:-1 tvg-name="AR| STAR GOLD HD" tvg-logo="https://lo1.in/FCB/sgoldd0.png" group-title="AR | STARZPLAY",AR| STAR GOLD HD
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/3336.m3u8
+#EXTINF:-1 tvg-name="AR| Souad Hosny FHD" tvg-logo="https://lo1.in/FCB/flg.png" group-title="AR | STARZPLAY",AR| Souad Hosny FHD
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/949950.m3u8
+#EXTINF:-1 tvg-name="AR| Powder FHD" tvg-logo="https://lo1.in/FCB/flg.png" group-title="AR | STARZPLAY",AR| Powder FHD
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/949951.m3u8
+#EXTINF:-1 tvg-name="AR| Now 80s FHD" tvg-logo="https://lo1.in/FCB/flg.png" group-title="AR | STARZPLAY",AR| Now 80s FHD
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/949952.m3u8
+#EXTINF:-1 tvg-name="AR| Khalijyat FHD" tvg-logo="https://lo1.in/FCB/flg.png" group-title="AR | STARZPLAY",AR| Khalijyat FHD
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/949953.m3u8
+#EXTINF:-1 tvg-name="AR| Billiard Plus FHD" tvg-logo="https://lo1.in/FCB/flg.png" group-title="AR | STARZPLAY",AR| Billiard Plus FHD
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/949954.m3u8
+#EXTINF:-1 tvg-name="AR| Al Zaeem FHD" tvg-logo="https://lo1.in/FCB/flg.png" group-title="AR | STARZPLAY",AR| Al Zaeem FHD
+http://amrshapan.smart-tv.xyz:80/live/3033692995/1072369964/949955.m3u8
